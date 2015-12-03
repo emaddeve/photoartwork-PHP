@@ -1,0 +1,40 @@
+---- EXIF ----
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Y Cb Cr Positioning             : Centered
+Exif Version                    : 0231
+Components Configuration        : Y, Cb, Cr, -
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 800
+Exif Image Height               : 522
+---- XMP ----
+XMP Toolkit                     : XMP Core 5.1.2
+Title                           : Tunnel View, Yosemite Valley, Yosemite NP
+Creator                         : David Iliff
+Subject                         : california, yosemite
+Description                     : The view of Yosemite Valley from Tunnel View in Yosemite National Park, California, United States.
+Rights                          : CC-by-sa
+Country                         : USA
+State                           : California
+Creator Work URL                : http://commons.wikimedia.org/wiki/User:Diliff
+Location                        : Yosemite National Park
+Usage Terms                     : http://creativecommons.org/licenses/by-sa/3.0/deed.en
+---- IPTC ----
+Coded Character Set             : UTF8
+Application Record Version      : 2
+By-line                         : David Iliff
+Headline                        : Tunnel View, Yosemite Valley, Yosemite NP
+Sub-location                    : Yosemite National Park
+Source                          : http://commons.wikimedia.org/wiki/File:Tunnel_View,_Yosemite_Valley,_Yosemite_NP_-_Diliff.jpg
+Caption-Abstract                : The view of Yosemite Valley from Tunnel View in Yosemite National Park, California, United States.
+Credit                          : Wikimedia Commons
+Date Created                    : 2013:05:16
+Copyright Notice                : CC-by-sa
+Keywords                        : california, yosemite
+Province-State                  : California
+Time Created                    : 18:37:30+02:00
+Object Name                     : Tunnel View, Yosemite Valley, Yosemite NP
+Country-Primary Location Name   : USA

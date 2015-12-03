@@ -1,0 +1,550 @@
+======== images//./Detroit.jpg
+---- EXIF ----
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Y Cb Cr Positioning             : Centered
+Exif Version                    : 0231
+Components Configuration        : Y, Cb, Cr, -
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 800
+Exif Image Height               : 533
+---- XMP ----
+XMP Toolkit                     : XMP Core 5.1.2
+Title                           : Abandoned Packard Automobile Factory, Detroit
+Creator                         : Albert Duce
+Subject                         : abandoned, detroit, factory, michigan
+Description                     : Western part of the abandoned Packard Automotive Plant in Detroit, Michigan.
+Rights                          : CC-by-sa
+Country                         : USA
+State                           : Michigan
+Usage Terms                     : http://creativecommons.org/licenses/by-sa/3.0/deed.en
+---- IPTC ----
+Coded Character Set             : UTF8
+Application Record Version      : 2
+By-line                         : Albert Duce
+Headline                        : Abandoned Packard Automobile Factory, Detroit
+Source                          : http://commons.wikimedia.org/wiki/File:Abandoned_Packard_Automobile_Factory_Detroit_200.jpg
+Caption-Abstract                : Western part of the abandoned Packard Automotive Plant in Detroit, Michigan.
+Credit                          : Wikimedia Commons
+Date Created                    : 2009:10:07
+Copyright Notice                : CC-by-sa
+Keywords                        : abandoned, detroit, factory, michigan
+Province-State                  : Michigan
+Time Created                    : 16:04:52+02:00
+Object Name                     : Abandoned Packard Automobile Factory, Detroit
+City                            : Detroit
+Country-Primary Location Name   : USA
+======== images//./MIT.jpg
+---- EXIF ----
+Image Description               : OLYMPUS DIGITAL CAMERA
+Make                            : OLYMPUS OPTICAL CO.,LTD
+Camera Model Name               : C3000Z
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop 7.0
+Modify Date                     : 2004:08:03 16:39:53
+Y Cb Cr Positioning             : Co-sited
+Exposure Time                   : 1/500
+F Number                        : 4.0
+Exposure Program                : Program AE
+ISO                             : 100
+Exif Version                    : 0210
+Date/Time Original              : 2004:07:31 18:42:52
+Create Date                     : 2004:07:31 18:42:52
+Components Configuration        : Y, Cb, Cr, -
+Compressed Bits Per Pixel       : 1
+Exposure Compensation           : 0
+Max Aperture Value              : 2.8
+Metering Mode                   : Multi-segment
+Light Source                    : Unknown
+Flash                           : No Flash
+Focal Length                    : 6.6 mm
+User Comment                    : 
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 800
+Exif Image Height               : 600
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 856
+Thumbnail Length                : 4420
+---- XMP ----
+XMP Toolkit                     : XMP Core 5.1.2
+Country                         : USA
+State                           : Massachusetts
+Instance ID                     : uuid:572ab3d2-e563-11d8-94df-9d403e5301e1
+Document ID                     : adobe:docid:photoshop:820c3a10-e423-11d8-8ca8-fdc43f210aef
+Location                        : MIT
+Usage Terms                     : http://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License_1.2
+Title                           : Stata Center at the MIT
+Creator                         : Raul654, Finlay McWalter
+Description                     : The Ray and Maria Stata Center or Building 32 is an academic complex designed by Pritzker Prize-winning architect Frank Gehry for the Massachusetts Institute of Technology (MIT). ..Contained within the building are the Computer Science and Artificial Intelligence Laboratory, the Laboratory for Information and Decision Systems, as well as the Department of Linguistics and Philosophy. Academic celebrities such as Noam Chomsky and Ron Rivest have offices there. World Wide Web Consortium founder Tim Berners-Lee and free software movement founder Richard Stallman also have offices within.
+Subject                         : MIT, stata center, university
+Rights                          : GNU Free Documentation License
+Creator Work URL                : http://commons.wikimedia.org/wiki/User:Finlay_McWalter
+---- IPTC ----
+Coded Character Set             : UTF8
+Application Record Version      : 2
+By-line                         : Raul654, Finlay McWalter
+Headline                        : Stata Center at the MIT
+Country-Primary Location Name   : USA
+Source                          : http://commons.wikimedia.org/wiki/File:Wfm_stata_center.jpg
+Digital Creation Date           : 2004:07:31
+Credit                          : Wikimedia Commons
+Caption-Abstract                : The Ray and Maria Stata Center or Building 32 is an academic complex designed by Pritzker Prize-winning architect Frank Gehry for the Massachusetts Institute of Technology (MIT). ..Contained within the building are the Computer Science and Artificial Intelligence Laboratory, the Laboratory for Information and Decision Systems, as well as the Department of Linguistics and Philosophy. Academic celebrities such as Noam Chomsky and Ron Rivest have offices there. World Wide Web Consortium founder Tim Berners-Lee and free software movement founder Richard Stallman also have offices within.
+Date Created                    : 2004:07:31
+Keywords                        : MIT, stata center, university
+Province-State                  : Massachusetts
+Time Created                    : 18:42:52
+Copyright Notice                : GNU Free Documentation License
+Digital Creation Time           : 18:42:52
+Object Name                     : Stata Center at the MIT
+City                            : Cambridge
+Sub-location                    : MIT
+======== images//./Cupertino.jpg
+---- EXIF ----
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Y Cb Cr Positioning             : Centered
+Exif Version                    : 0231
+Components Configuration        : Y, Cb, Cr, -
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 800
+Exif Image Height               : 557
+---- XMP ----
+XMP Toolkit                     : XMP Core 5.1.2
+Title                           : Apple's headquarters at Infinite Loop in Cupertino, California
+Creator                         : Joe Ravi
+Subject                         : apple, california, computers, cupertino
+Description                     : The Apple Campus is the corporate headquarters of Apple Inc., located at 1 Infinite Loop in Cupertino, California, United States. Its design resembles that of a university, with the buildings arranged around green spaces, similar to a suburban business park.
+Rights                          : CC-by-sa
+Country                         : USA
+State                           : California
+Creator Work URL                : http://commons.wikimedia.org/wiki/User:Jovianeye
+Location                        : Apple's Headquarters
+Usage Terms                     : http://creativecommons.org/licenses/by-sa/3.0/deed.en
+---- IPTC ----
+Coded Character Set             : UTF8
+Application Record Version      : 2
+By-line                         : Joe Ravi
+Headline                        : Apple's headquarters at Infinite Loop in Cupertino, California
+Sub-location                    : Apple's Headquarters
+Source                          : http://commons.wikimedia.org/wiki/File:Apple_Headquarters_in_Cupertino.jpg
+Caption-Abstract                : The Apple Campus is the corporate headquarters of Apple Inc., located at 1 Infinite Loop in Cupertino, California, United States. Its design resembles that of a university, with the buildings arranged around green spaces, similar to a suburban business park.
+Credit                          : Wikimedia Commons
+Date Created                    : 2011:09:04
+Copyright Notice                : CC-by-sa
+Keywords                        : apple, california, computers, cupertino
+Province-State                  : California
+Time Created                    : 16:27:45+02:00
+Object Name                     : Apple's headquarters at Infinite Loop in Cupertino, California
+City                            : Cupertino
+Country-Primary Location Name   : USA
+======== images//./ee.jpeg
+======== images//./Yosemite.jpg
+---- EXIF ----
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Y Cb Cr Positioning             : Centered
+Exif Version                    : 0231
+Components Configuration        : Y, Cb, Cr, -
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 800
+Exif Image Height               : 522
+---- XMP ----
+XMP Toolkit                     : XMP Core 5.1.2
+Title                           : Tunnel View, Yosemite Valley, Yosemite NP
+Creator                         : David Iliff
+Subject                         : california, yosemite
+Description                     : The view of Yosemite Valley from Tunnel View in Yosemite National Park, California, United States.
+Rights                          : CC-by-sa
+Country                         : USA
+State                           : California
+Creator Work URL                : http://commons.wikimedia.org/wiki/User:Diliff
+Location                        : Yosemite National Park
+Usage Terms                     : http://creativecommons.org/licenses/by-sa/3.0/deed.en
+---- IPTC ----
+Coded Character Set             : UTF8
+Application Record Version      : 2
+By-line                         : David Iliff
+Headline                        : Tunnel View, Yosemite Valley, Yosemite NP
+Sub-location                    : Yosemite National Park
+Source                          : http://commons.wikimedia.org/wiki/File:Tunnel_View,_Yosemite_Valley,_Yosemite_NP_-_Diliff.jpg
+Caption-Abstract                : The view of Yosemite Valley from Tunnel View in Yosemite National Park, California, United States.
+Credit                          : Wikimedia Commons
+Date Created                    : 2013:05:16
+Copyright Notice                : CC-by-sa
+Keywords                        : california, yosemite
+Province-State                  : California
+Time Created                    : 18:37:30+02:00
+Object Name                     : Tunnel View, Yosemite Valley, Yosemite NP
+Country-Primary Location Name   : USA
+======== images//./Grand.jpg
+---- EXIF ----
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Y Cb Cr Positioning             : Centered
+Exif Version                    : 0231
+Components Configuration        : Y, Cb, Cr, -
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 800
+Exif Image Height               : 534
+---- XMP ----
+XMP Toolkit                     : XMP Core 5.1.2
+Title                           : Grand Canyon National Park in Winter
+Creator                         : Pescaiolo
+Subject                         : grand canyon, snow, winter
+Description                     : Snow covers the top of the South Rim at Grand Canyon National Park.
+Rights                          : Public domain
+Country                         : USA
+State                           : Arizona
+Usage Terms                     : http://en.wikipedia.org/wiki/en:public_domain
+Location                        : Grand Canyon National Park
+---- IPTC ----
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Sub-location                    : Grand Canyon National Park
+Headline                        : Grand Canyon National Park in Winter
+By-line                         : Pescaiolo
+Source                          : http://commons.wikimedia.org/wiki/File:GrandCanyonWinter2008.JPG
+Caption-Abstract                : Snow covers the top of the South Rim at Grand Canyon National Park.
+Credit                          : Wikimedia Commons
+Date Created                    : 2008:02:23
+Copyright Notice                : Public domain
+Keywords                        : grand canyon, snow, winter
+Time Created                    : 08:03:00+01:00
+Province-State                  : Arizona
+Object Name                     : Grand Canyon National Park in Winter
+Country-Primary Location Name   : USA
+======== images//./Montreal.jpg
+---- EXIF ----
+Make                            : Canon
+Camera Model Name               : Canon PowerShot SD400
+Orientation                     : Horizontal (normal)
+X Resolution                    : 180
+Y Resolution                    : 180
+Resolution Unit                 : inches
+Modify Date                     : 2009:10:19 12:42:58
+Y Cb Cr Positioning             : Centered
+Exposure Time                   : 1/320
+F Number                        : 5.6
+Exif Version                    : 0220
+Date/Time Original              : 2009:10:19 12:42:58
+Create Date                     : 2009:10:19 12:42:58
+Components Configuration        : Y, Cb, Cr, -
+Compressed Bits Per Pixel       : 5
+Shutter Speed Value             : 1/318
+Aperture Value                  : 5.6
+Max Aperture Value              : 2.8
+Flash                           : Auto, Did not fire
+Focal Length                    : 5.8 mm
+User Comment                    : 
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 2592
+Exif Image Height               : 1944
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+Related Image Width             : 2592
+Related Image Height            : 1944
+Focal Plane X Resolution        : 11520
+Focal Plane Y Resolution        : 11571.42857
+Focal Plane Resolution Unit     : inches
+Sensing Method                  : One-chip color area
+File Source                     : Digital Camera
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+Digital Zoom Ratio              : 1
+Scene Capture Type              : Standard
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 2376
+Thumbnail Length                : 5257
+---- XMP ----
+XMP Toolkit                     : XMP Core 5.1.2
+Country                         : Canada
+State                           : Quebec
+Location                        : Mont Royal Lookout
+Title                           : Downtown Montreal from Mont Royal
+Creator                         : Jean-Marc Lecarpentier
+Subject                         : canada, montreal, quebec
+Description                     : View of downtown Montreal, Quebec, from Mont Royal. The Saint-Laurent river is seen in the background.
+Rights                          : CC-by-nc-sa
+Creator Work Email              : lecarpentier@unicaen.fr
+Creator Work URL                : https://ensweb.users.info.unicaen.fr
+Usage Terms                     : http://creativecommons.org/licenses/by-nc-sa/3.0/
+---- IPTC ----
+Coded Character Set             : UTF8
+Application Record Version      : 2
+By-line                         : Jean-Marc Lecarpentier
+Headline                        : Downtown Montreal from Mont Royal
+Sub-location                    : Mont Royal Lookout
+Caption-Abstract                : View of downtown Montreal, Quebec, from Mont Royal. The Saint-Laurent river is seen in the background.
+Credit                          : Jean-Marc Lecarpentier
+Copyright Notice                : CC-by-nc-sa
+Keywords                        : canada, montreal, quebec
+Province-State                  : Quebec
+Object Name                     : Downtown Montreal from Mont Royal
+City                            : Montreal
+Country-Primary Location Name   : Canada
+======== images//./White.jpg
+---- EXIF ----
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Y Cb Cr Positioning             : Centered
+Exif Version                    : 0231
+Components Configuration        : Y, Cb, Cr, -
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 800
+Exif Image Height               : 537
+---- XMP ----
+XMP Toolkit                     : XMP Core 5.1.2
+Title                           : Moonshine over White Sands National Monument
+Creator                         : John Fowler
+Subject                         : desert, dunes, new mexico, white sands
+Description                     : Moonshine over White Sands National Monument, New Mexico. The area is in the mountain-ringed Tularosa Basin and comprises the southern part of a 710-km² field of white sand dunes composed of gypsum crystals.
+Rights                          : CC-by
+Country                         : USA
+State                           : New Mexico
+Creator Work URL                : http://www.lumenetic.com/
+Location                        : White Sands National Monument
+Usage Terms                     : http://creativecommons.org/licenses/by/2.0/deed.en
+---- IPTC ----
+Coded Character Set             : UTF8
+Application Record Version      : 2
+By-line                         : John Fowler
+Headline                        : Moonshine over White Sands National Monument
+Country-Primary Location Name   : USA
+Source                          : http://commons.wikimedia.org/wiki/File:White_sands_moon_%26_clouds.jpg
+Caption-Abstract                : Moonshine over White Sands National Monument, New Mexico. The area is in the mountain-ringed Tularosa Basin and comprises the southern part of a 710-km² field of white sand dunes composed of gypsum crystals.
+Credit                          : Wikimedia Commons
+Date Created                    : 2010:01:29
+Copyright Notice                : CC-by
+Keywords                        : desert, dunes, new mexico, white sands
+Province-State                  : New Mexico
+Time Created                    : 18:38:07+01:00
+Object Name                     : Moonshine over White Sands National Monument
+Sub-location                    : White Sands National Monument
+======== images//./Joshua.jpg
+---- EXIF ----
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Y Cb Cr Positioning             : Centered
+Exif Version                    : 0231
+Components Configuration        : Y, Cb, Cr, -
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 800
+Exif Image Height               : 439
+---- XMP ----
+XMP Toolkit                     : XMP Core 5.1.2
+Title                           : California High Desert Summer Sunset
+Creator                         : Jessie Eastland
+Subject                         : california, desert, joshua tree
+Description                     : Joshua Tree National Park is located in southeastern California. Declared a U.S. National Park in 1994 when the U.S. Congress passed the California Desert Protection Act . It is named for the Joshua tree (Yucca brevifolia) forests native to the park.  ..The park includes parts of two deserts, each an ecosystem whose characteristics are determined primarily by elevation: the higher Mojave Desert and lower Colorado Desert. The Little San Bernardino Mountains run through the southwest edge of the park.
+Rights                          : CC-by-sa
+Country                         : USA
+State                           : California
+Usage Terms                     : http://creativecommons.org/licenses/by-sa/3.0/deed.en
+Location                        : Joshua Tree National Park
+---- IPTC ----
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Sub-location                    : Joshua Tree National Park
+By-line                         : Jessie Eastland
+Headline                        : California High Desert Summer Sunset
+Source                          : http://commons.wikimedia.org/wiki/File:Blue-Joshua_2_-_July-2011.jpg
+Caption-Abstract                : Joshua Tree National Park is located in southeastern California. Declared a U.S. National Park in 1994 when the U.S. Congress passed the California Desert Protection Act . It is named for the Joshua tree (Yucca brevifolia) forests native to the park.  ..The park includes parts of two deserts, each an ecosystem whose characteristics are determined primarily by elevation: the higher Mojave Desert and lower Colorado Desert. The Little San Bernardino Mountains run through the southwest edge of the park.
+Credit                          : Wikimedia Commons
+Date Created                    : 2013:10:07
+Copyright Notice                : CC-by-sa
+Keywords                        : california, desert, joshua tree
+Time Created                    : 21:58:17+02:00
+Province-State                  : California
+Object Name                     : California High Desert Summer Sunset
+Country-Primary Location Name   : USA
+======== images//./Mountain.jpg
+---- EXIF ----
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Y Cb Cr Positioning             : Centered
+Exif Version                    : 0231
+Components Configuration        : Y, Cb, Cr, -
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 800
+Exif Image Height               : 381
+---- XMP ----
+XMP Toolkit                     : XMP Core 5.1.2
+Title                           : Googleplex entrance in Moutain View, California
+Creator                         : Sebastian Bergmann
+Subject                         : california, google, googleplex, mountain view
+Description                     : The Googleplex is the corporate headquarters complex of Google, Inc., located at 1600 Amphitheatre Parkway in Mountain View, Santa Clara County, California, United States, near San Jose.
+Rights                          : CC-by-sa
+Country                         : USA
+State                           : California
+Creator Work URL                : http://flickr.com/photos/90237600@N00
+Location                        : Google campus
+Usage Terms                     : http://creativecommons.org/licenses/by-sa/2.0/deed.en
+---- IPTC ----
+Coded Character Set             : UTF8
+Application Record Version      : 2
+By-line                         : Sebastian Bergmann
+Headline                        : Googleplex entrance in Moutain View, California
+Sub-location                    : Google campus
+Source                          : http://flickr.com/photos/90237600@N00/1566334222
+Caption-Abstract                : The Googleplex is the corporate headquarters complex of Google, Inc., located at 1600 Amphitheatre Parkway in Mountain View, Santa Clara County, California, United States, near San Jose.
+Credit                          : Flickr
+Date Created                    : 2007:10:06
+Copyright Notice                : CC-by-sa
+Keywords                        : california, google, googleplex, mountain view
+Time Created                    : 15:43:07+02:00
+Province-State                  : California
+Object Name                     : Googleplex entrance in Moutain View, California
+City                            : Mountain View
+Country-Primary Location Name   : USA
+======== images//./Lincoln.jpg
+---- EXIF ----
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Y Cb Cr Positioning             : Centered
+Exif Version                    : 0231
+Components Configuration        : Y, Cb, Cr, -
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 800
+Exif Image Height               : 532
+---- XMP ----
+XMP Toolkit                     : XMP Core 5.1.2
+Title                           : Lincoln Memorial
+Creator                         : Jeff Kubina
+Subject                         : lincoln, lincoln memorial, washington dc
+Description                     : The Lincoln Memorial is an American national monument built to honor the 16th President of the United States, Abraham Lincoln. It is located on the National Mall in Washington, D.C. across from the Washington Monument. The architect was Henry Bacon, the sculptor of the primary statue – Abraham Lincoln, 1920 – was Daniel Chester French, and the painter of the interior murals was Jules Guerin. Dedicated in 1922, it is one of several monuments built to honor an American president.
+Rights                          : CC-by-sa
+Country                         : USA
+State                           : District of Columbia
+Creator Work URL                : http://www.flickr.com/people/95118988@N00
+Location                        : Lincoln Memorial
+Usage Terms                     : http://creativecommons.org/licenses/by-sa/2.0/deed.en
+---- IPTC ----
+Coded Character Set             : UTF8
+Application Record Version      : 2
+By-line                         : Jeff Kubina
+Headline                        : Lincoln Memorial
+Sub-location                    : Lincoln Memorial
+Source                          : http://www.flickr.com/photos/95118988@N00/1372774027/
+Caption-Abstract                : The Lincoln Memorial is an American national monument built to honor the 16th President of the United States, Abraham Lincoln. It is located on the National Mall in Washington, D.C. across from the Washington Monument. The architect was Henry Bacon, the sculptor of the primary statue – Abraham Lincoln, 1920 – was Daniel Chester French, and the painter of the interior murals was Jules Guerin. Dedicated in 1922, it is one of several monuments built to honor an American president.
+Credit                          : Flickr
+Date Created                    : 2013:10:07
+Copyright Notice                : CC-by-sa
+Keywords                        : lincoln, lincoln memorial, washington dc
+Time Created                    : 09:14:08+02:00
+Province-State                  : District of Columbia
+Object Name                     : Lincoln Memorial
+City                            : Washington DC
+Country-Primary Location Name   : USA
+======== images//./Dallas.jpg
+---- EXIF ----
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Y Cb Cr Positioning             : Centered
+Exif Version                    : 0231
+Components Configuration        : Y, Cb, Cr, -
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 800
+Exif Image Height               : 489
+---- XMP ----
+XMP Toolkit                     : XMP Core 5.1.2
+Title                           : Dallas Skyline at dusk
+Creator                         : Drumguy8800
+Subject                         : dallas, dusk, skyline, texas
+Description                     : Dallas was founded in 1841 and formally incorporated as a city in February 1856. The city's economy is primarily based on banking, commerce, telecommunications, computer technology, energy, healthcare and medical research, transportation and logistics. The city is home to the third largest concentration of Fortune 500 companies in the nation. Located in North Texas, Dallas is the main core of the largest inland metropolitan area in the United States that lacks any navigable link to the sea.
+Rights                          : GNU Free Documentation License
+Country                         : USA
+State                           : Texas
+Creator Work URL                : http://en.wikipedia.org/wiki/User:Drumguy8800/Gallery
+Usage Terms                     : http://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License_1.2
+---- IPTC ----
+Coded Character Set             : UTF8
+Application Record Version      : 2
+By-line                         : Drumguy8800
+Headline                        : Dallas Skyline at dusk
+Source                          : http://commons.wikimedia.org/wiki/File:Xvisionx_Dallas_Stemmons.jpg
+Caption-Abstract                : Dallas was founded in 1841 and formally incorporated as a city in February 1856. The city's economy is primarily based on banking, commerce, telecommunications, computer technology, energy, healthcare and medical research, transportation and logistics. The city is home to the third largest concentration of Fortune 500 companies in the nation. Located in North Texas, Dallas is the main core of the largest inland metropolitan area in the United States that lacks any navigable link to the sea.
+Credit                          : Wikimedia Commons
+Date Created                    : 2013:07:23
+Copyright Notice                : GNU Free Documentation License
+Keywords                        : dallas, dusk, skyline, texas
+Time Created                    : 20:40:36+02:00
+Province-State                  : Texas
+Object Name                     : Dallas Skyline at dusk
+City                            : Dallas
+Country-Primary Location Name   : USA
+======== images//./Chicago.jpg
+---- EXIF ----
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Y Cb Cr Positioning             : Centered
+Exif Version                    : 0231
+Components Configuration        : Y, Cb, Cr, -
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 800
+Exif Image Height               : 533
+---- XMP ----
+XMP Toolkit                     : XMP Core 5.1.2
+Title                           :  Chicago Harbor Light in Chicago, Illinois
+Creator                         : Richard C. Drew
+Subject                         : chicago, chicago river, illinois, lake Michigan, lighthouse
+Description                     : The Chicago Harbor Lighthouse is an automated active lighthouse, and stands at the end of the northern breakwater protecting the Chicago Harbor, to the east of Navy Pier and the mouth of the Chicago River. It was constructed in 1893 for the World's Columbian Exposition and moved to its present site in 1919.
+Rights                          : CC-by-sa
+Country                         : USA
+State                           : Illinois
+Creator Work URL                : http://en.wikipedia.org/wiki/User:Rickdrew
+Usage Terms                     : http://creativecommons.org/licenses/by-sa/3.0/deed.en
+---- IPTC ----
+Coded Character Set             : UTF8
+Application Record Version      : 2
+By-line                         : Richard C. Drew
+Headline                        :  Chicago Harbor Light in Chicago, Illinois
+Source                          : http://commons.wikimedia.org/wiki/File:Chicago-lighthouse.jpg
+Caption-Abstract                : The Chicago Harbor Lighthouse is an automated active lighthouse, and stands at the end of the northern breakwater protecting the Chicago Harbor, to the east of Navy Pier and the mouth of the Chicago River. It was constructed in 1893 for the World's Columbian Exposition and moved to its present site in 1919.
+Credit                          : Wikimedia Commons
+Date Created                    : 2004:08:12
+Copyright Notice                : CC-by-sa
+Keywords                        : chicago, chicago river, illinois, lake Michigan, lighthouse
+Time Created                    : 11:39:48+02:00
+Province-State                  : Illinois
+Object Name                     :  Chicago Harbor Light in Chicago, Illinois
+City                            : Chicago
+Country-Primary Location Name   : USA
+    1 directories scanned
+   13 image files read

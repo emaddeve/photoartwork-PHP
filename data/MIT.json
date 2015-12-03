@@ -1,0 +1,567 @@
+[{
+  "SourceFile": "MIT.jpg",
+  "ExifToolVersion": {
+    "id": "ExifToolVersion",
+    "val": 9.46
+  },
+  "FileName": {
+    "id": "FileName",
+    "val": "MIT.jpg"
+  },
+  "Directory": {
+    "id": "Directory",
+    "val": "."
+  },
+  "FileSize": {
+    "id": "FileSize",
+    "val": "312 kB"
+  },
+  "FileModifyDate": {
+    "id": "FileModifyDate",
+    "val": "2013:10:07 21:33:39+02:00"
+  },
+  "FileAccessDate": {
+    "id": "FileAccessDate",
+    "val": "2015:11:11 00:36:19+01:00"
+  },
+  "FileInodeChangeDate": {
+    "id": "FileInodeChangeDate",
+    "val": "2015:11:11 00:33:00+01:00"
+  },
+  "FilePermissions": {
+    "id": "FilePermissions",
+    "val": "rw-r--r--"
+  },
+  "FileType": {
+    "id": "FileType",
+    "val": "JPEG"
+  },
+  "MIMEType": {
+    "id": "MIMEType",
+    "val": "image/jpeg"
+  },
+  "ExifByteOrder": {
+    "id": "ExifByteOrder",
+    "val": "Little-endian (Intel, II)"
+  },
+  "ImageDescription": {
+    "id": "0x010e",
+    "val": "OLYMPUS DIGITAL CAMERA         "
+  },
+  "Make": {
+    "id": "0x010f",
+    "val": "OLYMPUS OPTICAL CO.,LTD"
+  },
+  "Model": {
+    "id": "0x0110",
+    "val": "C3000Z"
+  },
+  "Orientation": {
+    "id": "0x0112",
+    "val": "Horizontal (normal)"
+  },
+  "XResolution": {
+    "id": "0x011a",
+    "val": 72
+  },
+  "YResolution": {
+    "id": "0x011b",
+    "val": 72
+  },
+  "ResolutionUnit": {
+    "id": "0x0128",
+    "val": "inches"
+  },
+  "Software": {
+    "id": "0x0131",
+    "val": "Adobe Photoshop 7.0"
+  },
+  "ModifyDate": {
+    "id": "0x0132",
+    "val": "2004:08:03 16:39:53"
+  },
+  "YCbCrPositioning": {
+    "id": "0x0213",
+    "val": "Co-sited"
+  },
+  "ExposureTime": {
+    "id": "0x829a",
+    "val": "1/500"
+  },
+  "FNumber": {
+    "id": "0x829d",
+    "val": 4.0
+  },
+  "ExposureProgram": {
+    "id": "0x8822",
+    "val": "Program AE"
+  },
+  "ISO": {
+    "id": "0x8827",
+    "val": 100
+  },
+  "ExifVersion": {
+    "id": "0x9000",
+    "val": "0210"
+  },
+  "DateTimeOriginal": {
+    "id": "0x9003",
+    "val": "2004:07:31 18:42:52"
+  },
+  "CreateDate": {
+    "id": "0x9004",
+    "val": "2004:07:31 18:42:52"
+  },
+  "ComponentsConfiguration": {
+    "id": "0x9101",
+    "val": "Y, Cb, Cr, -"
+  },
+  "CompressedBitsPerPixel": {
+    "id": "0x9102",
+    "val": 1
+  },
+  "ExposureCompensation": {
+    "id": "0x9204",
+    "val": 0
+  },
+  "MaxApertureValue": {
+    "id": "0x9205",
+    "val": 2.8
+  },
+  "MeteringMode": {
+    "id": "0x9207",
+    "val": "Multi-segment"
+  },
+  "LightSource": {
+    "id": "0x9208",
+    "val": "Unknown"
+  },
+  "Flash": {
+    "id": "0x9209",
+    "val": "No Flash"
+  },
+  "FocalLength": {
+    "id": "0x920a",
+    "val": "6.6 mm"
+  },
+  "UserComment": {
+    "id": "0x9286",
+    "val": ""
+  },
+  "FlashpixVersion": {
+    "id": "0xa000",
+    "val": "0100"
+  },
+  "ColorSpace": {
+    "id": "0xa001",
+    "val": "sRGB"
+  },
+  "ExifImageWidth": {
+    "id": "0xa002",
+    "val": 800
+  },
+  "ExifImageHeight": {
+    "id": "0xa003",
+    "val": 600
+  },
+  "FileSource": {
+    "id": "0xa300",
+    "val": "Digital Camera"
+  },
+  "SceneType": {
+    "id": "0xa301",
+    "val": "Directly photographed"
+  },
+  "Compression": {
+    "id": "0x0103",
+    "val": "JPEG (old-style)"
+  },
+  "ThumbnailOffset": {
+    "id": "0x0201",
+    "val": 856
+  },
+  "ThumbnailLength": {
+    "id": "0x0202",
+    "val": 4420
+  },
+  "XMPToolkit": {
+    "id": "xmptk",
+    "val": "XMP Core 5.1.2"
+  },
+  "Country": {
+    "id": "Country",
+    "val": "USA"
+  },
+  "State": {
+    "id": "State",
+    "val": "Massachusetts"
+  },
+  "InstanceID": {
+    "id": "InstanceID",
+    "val": "uuid:572ab3d2-e563-11d8-94df-9d403e5301e1"
+  },
+  "DocumentID": {
+    "id": "DocumentID",
+    "val": "adobe:docid:photoshop:820c3a10-e423-11d8-8ca8-fdc43f210aef"
+  },
+  "Location": {
+    "id": "Location",
+    "val": "MIT"
+  },
+  "UsageTerms": {
+    "id": "UsageTerms",
+    "val": "http://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License_1.2"
+  },
+  "Title": {
+    "id": "title",
+    "val": "Stata Center at the MIT"
+  },
+  "Creator": {
+    "id": "creator",
+    "val": "Raul654, Finlay McWalter"
+  },
+  "Description": {
+    "id": "description",
+    "val": "The Ray and Maria Stata Center or Building 32 is an academic complex designed by Pritzker Prize-winning architect Frank Gehry for the Massachusetts Institute of Technology (MIT). \n\nContained within the building are the Computer Science and Artificial Intelligence Laboratory, the Laboratory for Information and Decision Systems, as well as the Department of Linguistics and Philosophy. Academic celebrities such as Noam Chomsky and Ron Rivest have offices there. World Wide Web Consortium founder Tim Berners-Lee and free software movement founder Richard Stallman also have offices within."
+  },
+  "Subject": {
+    "id": "subject",
+    "val": ["MIT","stata center","university"]
+  },
+  "Rights": {
+    "id": "rights",
+    "val": "GNU Free Documentation License"
+  },
+  "CreatorWorkURL": {
+    "id": "CreatorContactInfoCiUrlWork",
+    "val": "http://commons.wikimedia.org/wiki/User:Finlay_McWalter"
+  },
+  "ProfileCMMType": {
+    "id": "0x0004",
+    "val": "Lino"
+  },
+  "ProfileVersion": {
+    "id": "0x0008",
+    "val": "2.1.0"
+  },
+  "ProfileClass": {
+    "id": "0x000c",
+    "val": "Display Device Profile"
+  },
+  "ColorSpaceData": {
+    "id": "0x0010",
+    "val": "RGB "
+  },
+  "ProfileConnectionSpace": {
+    "id": "0x0014",
+    "val": "XYZ "
+  },
+  "ProfileDateTime": {
+    "id": "0x0018",
+    "val": "1998:02:09 06:49:00"
+  },
+  "ProfileFileSignature": {
+    "id": "0x0024",
+    "val": "acsp"
+  },
+  "PrimaryPlatform": {
+    "id": "0x0028",
+    "val": "Microsoft Corporation"
+  },
+  "CMMFlags": {
+    "id": "0x002c",
+    "val": "Not Embedded, Independent"
+  },
+  "DeviceManufacturer": {
+    "id": "0x0030",
+    "val": "IEC "
+  },
+  "DeviceModel": {
+    "id": "0x0034",
+    "val": "sRGB"
+  },
+  "DeviceAttributes": {
+    "id": "0x0038",
+    "val": "Reflective, Glossy, Positive, Color"
+  },
+  "RenderingIntent": {
+    "id": "0x0040",
+    "val": "Perceptual"
+  },
+  "ConnectionSpaceIlluminant": {
+    "id": "0x0044",
+    "val": "0.9642 1 0.82491"
+  },
+  "ProfileCreator": {
+    "id": "0x0050",
+    "val": "HP  "
+  },
+  "ProfileID": {
+    "id": "0x0054",
+    "val": 0
+  },
+  "ProfileCopyright": {
+    "id": "cprt",
+    "val": "Copyright (c) 1998 Hewlett-Packard Company"
+  },
+  "ProfileDescription": {
+    "id": "desc",
+    "val": "sRGB IEC61966-2.1"
+  },
+  "MediaWhitePoint": {
+    "id": "wtpt",
+    "val": "0.95045 1 1.08905"
+  },
+  "MediaBlackPoint": {
+    "id": "bkpt",
+    "val": "0 0 0"
+  },
+  "RedMatrixColumn": {
+    "id": "rXYZ",
+    "val": "0.43607 0.22249 0.01392"
+  },
+  "GreenMatrixColumn": {
+    "id": "gXYZ",
+    "val": "0.38515 0.71687 0.09708"
+  },
+  "BlueMatrixColumn": {
+    "id": "bXYZ",
+    "val": "0.14307 0.06061 0.7141"
+  },
+  "DeviceMfgDesc": {
+    "id": "dmnd",
+    "val": "IEC http://www.iec.ch"
+  },
+  "DeviceModelDesc": {
+    "id": "dmdd",
+    "val": "IEC 61966-2.1 Default RGB colour space - sRGB"
+  },
+  "ViewingCondDesc": {
+    "id": "vued",
+    "val": "Reference Viewing Condition in IEC61966-2.1"
+  },
+  "ViewingCondIlluminant": {
+    "id": "0x0008",
+    "val": "19.6445 20.3718 16.8089"
+  },
+  "ViewingCondSurround": {
+    "id": "0x0014",
+    "val": "3.92889 4.07439 3.36179"
+  },
+  "ViewingCondIlluminantType": {
+    "id": "0x0020",
+    "val": "D50"
+  },
+  "Luminance": {
+    "id": "lumi",
+    "val": "76.03647 80 87.12462"
+  },
+  "MeasurementObserver": {
+    "id": "0x0008",
+    "val": "CIE 1931"
+  },
+  "MeasurementBacking": {
+    "id": "0x000c",
+    "val": "0 0 0"
+  },
+  "MeasurementGeometry": {
+    "id": "0x0018",
+    "val": "Unknown (0)"
+  },
+  "MeasurementFlare": {
+    "id": "0x001c",
+    "val": "0.999%"
+  },
+  "MeasurementIlluminant": {
+    "id": "0x0020",
+    "val": "D65"
+  },
+  "Technology": {
+    "id": "tech",
+    "val": "Cathode Ray Tube Display"
+  },
+  "RedTRC": {
+    "id": "rTRC",
+    "val": "(Binary data 2060 bytes)"
+  },
+  "GreenTRC": {
+    "id": "gTRC",
+    "val": "(Binary data 2060 bytes)"
+  },
+  "BlueTRC": {
+    "id": "bTRC",
+    "val": "(Binary data 2060 bytes)"
+  },
+  "CurrentIPTCDigest": {
+    "id": "CurrentIPTCDigest",
+    "val": "ee037efc0c97d85684e5ea640f221e98"
+  },
+  "CodedCharacterSet": {
+    "id": "0x005a",
+    "val": "UTF8"
+  },
+  "ApplicationRecordVersion": {
+    "id": "0x0000",
+    "val": 2
+  },
+  "By-line": {
+    "id": "0x0050",
+    "val": "Raul654, Finlay McWalter"
+  },
+  "Headline": {
+    "id": "0x0069",
+    "val": "Stata Center at the MIT"
+  },
+  "Country-PrimaryLocationName": {
+    "id": "0x0065",
+    "val": "USA"
+  },
+  "Source": {
+    "id": "0x0073",
+    "val": "http://commons.wikimedia.org/wiki/File:Wfm_stata_center.jpg"
+  },
+  "DigitalCreationDate": {
+    "id": "0x003e",
+    "val": "2004:07:31"
+  },
+  "Credit": {
+    "id": "0x006e",
+    "val": "Wikimedia Commons"
+  },
+  "Caption-Abstract": {
+    "id": "0x0078",
+    "val": "The Ray and Maria Stata Center or Building 32 is an academic complex designed by Pritzker Prize-winning architect Frank Gehry for the Massachusetts Institute of Technology (MIT). \n\nContained within the building are the Computer Science and Artificial Intelligence Laboratory, the Laboratory for Information and Decision Systems, as well as the Department of Linguistics and Philosophy. Academic celebrities such as Noam Chomsky and Ron Rivest have offices there. World Wide Web Consortium founder Tim Berners-Lee and free software movement founder Richard Stallman also have offices within."
+  },
+  "DateCreated": {
+    "id": "0x0037",
+    "val": "2004:07:31"
+  },
+  "Keywords": {
+    "id": "0x0019",
+    "val": ["MIT","stata center","university"]
+  },
+  "Province-State": {
+    "id": "0x005f",
+    "val": "Massachusetts"
+  },
+  "TimeCreated": {
+    "id": "0x003c",
+    "val": "18:42:52"
+  },
+  "CopyrightNotice": {
+    "id": "0x0074",
+    "val": "GNU Free Documentation License"
+  },
+  "DigitalCreationTime": {
+    "id": "0x003f",
+    "val": "18:42:52"
+  },
+  "ObjectName": {
+    "id": "0x0005",
+    "val": "Stata Center at the MIT"
+  },
+  "City": {
+    "id": "0x005a",
+    "val": "Cambridge"
+  },
+  "Sub-location": {
+    "id": "0x005c",
+    "val": "MIT"
+  },
+  "IPTCDigest": {
+    "id": "0x0425",
+    "val": "ee037efc0c97d85684e5ea640f221e98"
+  },
+  "DisplayedUnitsX": {
+    "id": "0x0002",
+    "val": "inches"
+  },
+  "DisplayedUnitsY": {
+    "id": "0x0006",
+    "val": "inches"
+  },
+  "GlobalAngle": {
+    "id": "0x040d",
+    "val": 30
+  },
+  "GlobalAltitude": {
+    "id": "0x0419",
+    "val": 30
+  },
+  "CopyrightFlag": {
+    "id": "0x040a",
+    "val": false
+  },
+  "PhotoshopThumbnail": {
+    "id": "0x040c",
+    "val": "(Binary data 4420 bytes)"
+  },
+  "PhotoshopQuality": {
+    "id": "0x0000",
+    "val": 7
+  },
+  "PhotoshopFormat": {
+    "id": "0x0001",
+    "val": "Standard"
+  },
+  "ProgressiveScans": {
+    "id": "0x0002",
+    "val": "3 Scans"
+  },
+  "ImageWidth": {
+    "id": "ImageWidth",
+    "val": 664
+  },
+  "ImageHeight": {
+    "id": "ImageHeight",
+    "val": 593
+  },
+  "EncodingProcess": {
+    "id": "EncodingProcess",
+    "val": "Baseline DCT, Huffman coding"
+  },
+  "BitsPerSample": {
+    "id": "BitsPerSample",
+    "val": 8
+  },
+  "ColorComponents": {
+    "id": "ColorComponents",
+    "val": 3
+  },
+  "YCbCrSubSampling": {
+    "id": "YCbCrSubSampling",
+    "val": "YCbCr4:2:0 (2 2)"
+  },
+  "Aperture": {
+    "id": "Aperture",
+    "val": 4.0
+  },
+  "DateTimeCreated": {
+    "id": "DateTimeCreated",
+    "val": "2004:07:31 18:42:52"
+  },
+  "DigitalCreationDateTime": {
+    "id": "DigitalCreationDateTime",
+    "val": "2004:07:31 18:42:52"
+  },
+  "ImageSize": {
+    "id": "ImageSize",
+    "val": "664x593"
+  },
+  "ShutterSpeed": {
+    "id": "ShutterSpeed",
+    "val": "1/500"
+  },
+  "ThumbnailImage": {
+    "id": "ThumbnailImage",
+    "val": "(Binary data 4420 bytes)"
+  },
+  "FocalLength35efl": {
+    "id": "FocalLength35efl",
+    "val": "6.6 mm"
+  },
+  "LightValue": {
+    "id": "LightValue",
+    "val": 13.0
+  }
+}]

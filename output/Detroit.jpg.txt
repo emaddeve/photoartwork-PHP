@@ -1,0 +1,38 @@
+---- EXIF ----
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Y Cb Cr Positioning             : Centered
+Exif Version                    : 0231
+Components Configuration        : Y, Cb, Cr, -
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 800
+Exif Image Height               : 533
+---- XMP ----
+XMP Toolkit                     : XMP Core 5.1.2
+Title                           : Abandoned Packard Automobile Factory, Detroit
+Creator                         : Albert Duce
+Subject                         : abandoned, detroit, factory, michigan
+Description                     : Western part of the abandoned Packard Automotive Plant in Detroit, Michigan.
+Rights                          : CC-by-sa
+Country                         : USA
+State                           : Michigan
+Usage Terms                     : http://creativecommons.org/licenses/by-sa/3.0/deed.en
+---- IPTC ----
+Coded Character Set             : UTF8
+Application Record Version      : 2
+By-line                         : Albert Duce
+Headline                        : Abandoned Packard Automobile Factory, Detroit
+Source                          : http://commons.wikimedia.org/wiki/File:Abandoned_Packard_Automobile_Factory_Detroit_200.jpg
+Caption-Abstract                : Western part of the abandoned Packard Automotive Plant in Detroit, Michigan.
+Credit                          : Wikimedia Commons
+Date Created                    : 2009:10:07
+Copyright Notice                : CC-by-sa
+Keywords                        : abandoned, detroit, factory, michigan
+Province-State                  : Michigan
+Time Created                    : 16:04:52+02:00
+Object Name                     : Abandoned Packard Automobile Factory, Detroit
+City                            : Detroit
+Country-Primary Location Name   : USA

@@ -1,0 +1,78 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>PhotoArtWork2</title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <!-- stylesheets -->
+  <link href="css/style.css" rel="stylesheet" type="text/css" />
+  <link href="css/colour.css" rel="stylesheet" type="text/css" />
+  <!-- modernizr enables HTML5 elements and feature detects -->
+  <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
+</head>
+
+<body>
+  <div id="main">
+
+    <!-- begin header -->
+    <header>
+      <div id="logo"><h1>PHOTO<a href="#">ART</a>WORK 2</h1></div>
+      <nav>
+        <ul class="sf-menu" id="nav">
+          <li><a href="index.html">home</a></li>
+          <li><a href="about.html">about me</a></li>
+          <li><a href="#">my portfolio</a>
+            <ul>
+              <li><a href="portfolio_one.html">portfolio_one</a></li>
+              <li><a href="portfolio_two.html">portfolio_two</a></li>
+            </ul>
+          </li>
+          <li><a href="blog.html">blog</a></li>
+          <li class="selected"><a href="contact.html">contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <!-- end header -->
+
+    <!-- begin content -->
+    <div id="site_content">
+      <div id="left_content">
+        <h1>Contact</h1>
+        <p>Say hello, using this contact form. There is a version of this template with a working PHP contact form, available for download from <a href="http://www.css3templates.co.uk">www.css3templates.co.uk</a>.</p>
+        <form id="contact" action="contact.html" method="post">
+          <div class="form_settings">
+            <p><span>Name</span><input class="contact" type="text" name="your_name" value="" /></p>
+            <p><span>Email Address</span><input class="contact" type="text" name="your_email" value="" /></p>
+            <p><span>Message</span><textarea class="contact textarea" rows="5" cols="50" name="your_message"></textarea></p>
+            <p style="padding-top: 15px"><span>&nbsp;</span><input class="submit" type="submit" name="contact_submitted" value="send" /></p>
+          </div>
+        </form>
+      </div>
+      <div id="right_content">
+        <img src="images/contact.jpg" width="450" height="450" title="contact" alt="contact" />
+      </div>
+    </div>
+    <!-- end content -->
+
+    <!-- begin footer -->
+    <footer>
+      <p>Copyright &copy; 2012 PhotoArtWork2. All Rights Reserved. <a href="http://www.css3templates.co.uk">Design from css3templates.co.uk</a>.</p>
+      <p><img src="images/twitter.png" alt="twitter" />&nbsp;<img src="images/facebook.png" alt="facebook" />&nbsp;<img src="images/rss.png" alt="rss" /></p>
+    </footer>
+    <!-- end footer -->
+
+  </div>
+  <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+  <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
+  <!-- initialise sooperfish menu -->
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('ul.sf-menu').sooperfish();
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+---- EXIF ----
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Y Cb Cr Positioning             : Centered
+Exif Version                    : 0231
+Components Configuration        : Y, Cb, Cr, -
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 800
+Exif Image Height               : 537
+---- XMP ----
+XMP Toolkit                     : XMP Core 5.1.2
+Title                           : Moonshine over White Sands National Monument
+Creator                         : John Fowler
+Subject                         : desert, dunes, new mexico, white sands
+Description                     : Moonshine over White Sands National Monument, New Mexico. The area is in the mountain-ringed Tularosa Basin and comprises the southern part of a 710-km² field of white sand dunes composed of gypsum crystals.
+Rights                          : CC-by
+Country                         : USA
+State                           : New Mexico
+Creator Work URL                : http://www.lumenetic.com/
+Location                        : White Sands National Monument
+Usage Terms                     : http://creativecommons.org/licenses/by/2.0/deed.en
+---- IPTC ----
+Coded Character Set             : UTF8
+Application Record Version      : 2
+By-line                         : John Fowler
+Headline                        : Moonshine over White Sands National Monument
+Country-Primary Location Name   : USA
+Source                          : http://commons.wikimedia.org/wiki/File:White_sands_moon_%26_clouds.jpg
+Caption-Abstract                : Moonshine over White Sands National Monument, New Mexico. The area is in the mountain-ringed Tularosa Basin and comprises the southern part of a 710-km² field of white sand dunes composed of gypsum crystals.
+Credit                          : Wikimedia Commons
+Date Created                    : 2010:01:29
+Copyright Notice                : CC-by
+Keywords                        : desert, dunes, new mexico, white sands
+Province-State                  : New Mexico
+Time Created                    : 18:38:07+01:00
+Object Name                     : Moonshine over White Sands National Monument
+Sub-location                    : White Sands National Monument

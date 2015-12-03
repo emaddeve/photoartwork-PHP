@@ -1,0 +1,395 @@
+[{
+  "SourceFile": "Mountain.jpg",
+  "ExifToolVersion": {
+    "id": "ExifToolVersion",
+    "val": 9.46
+  },
+  "FileName": {
+    "id": "FileName",
+    "val": "Mountain.jpg"
+  },
+  "Directory": {
+    "id": "Directory",
+    "val": "."
+  },
+  "FileSize": {
+    "id": "FileSize",
+    "val": "86 kB"
+  },
+  "FileModifyDate": {
+    "id": "FileModifyDate",
+    "val": "2013:10:07 21:33:39+02:00"
+  },
+  "FileAccessDate": {
+    "id": "FileAccessDate",
+    "val": "2015:11:11 00:36:19+01:00"
+  },
+  "FileInodeChangeDate": {
+    "id": "FileInodeChangeDate",
+    "val": "2015:11:11 00:33:05+01:00"
+  },
+  "FilePermissions": {
+    "id": "FilePermissions",
+    "val": "rw-r--r--"
+  },
+  "FileType": {
+    "id": "FileType",
+    "val": "JPEG"
+  },
+  "MIMEType": {
+    "id": "MIMEType",
+    "val": "image/jpeg"
+  },
+  "ExifByteOrder": {
+    "id": "ExifByteOrder",
+    "val": "Big-endian (Motorola, MM)"
+  },
+  "Orientation": {
+    "id": "0x0112",
+    "val": "Horizontal (normal)"
+  },
+  "XResolution": {
+    "id": "0x011a",
+    "val": 72
+  },
+  "YResolution": {
+    "id": "0x011b",
+    "val": 72
+  },
+  "ResolutionUnit": {
+    "id": "0x0128",
+    "val": "inches"
+  },
+  "YCbCrPositioning": {
+    "id": "0x0213",
+    "val": "Centered"
+  },
+  "ExifVersion": {
+    "id": "0x9000",
+    "val": "0231"
+  },
+  "ComponentsConfiguration": {
+    "id": "0x9101",
+    "val": "Y, Cb, Cr, -"
+  },
+  "FlashpixVersion": {
+    "id": "0xa000",
+    "val": "0100"
+  },
+  "ColorSpace": {
+    "id": "0xa001",
+    "val": "sRGB"
+  },
+  "ExifImageWidth": {
+    "id": "0xa002",
+    "val": 800
+  },
+  "ExifImageHeight": {
+    "id": "0xa003",
+    "val": 381
+  },
+  "XMPToolkit": {
+    "id": "xmptk",
+    "val": "XMP Core 5.1.2"
+  },
+  "Title": {
+    "id": "title",
+    "val": "Googleplex entrance in Moutain View, California"
+  },
+  "Creator": {
+    "id": "creator",
+    "val": "Sebastian Bergmann"
+  },
+  "Subject": {
+    "id": "subject",
+    "val": ["california","google","googleplex","mountain view"]
+  },
+  "Description": {
+    "id": "description",
+    "val": "The Googleplex is the corporate headquarters complex of Google, Inc., located at 1600 Amphitheatre Parkway in Mountain View, Santa Clara County, California, United States, near San Jose."
+  },
+  "Rights": {
+    "id": "rights",
+    "val": "CC-by-sa"
+  },
+  "Country": {
+    "id": "Country",
+    "val": "USA"
+  },
+  "State": {
+    "id": "State",
+    "val": "California"
+  },
+  "CreatorWorkURL": {
+    "id": "CreatorContactInfoCiUrlWork",
+    "val": "http://flickr.com/photos/90237600@N00"
+  },
+  "Location": {
+    "id": "Location",
+    "val": "Google campus"
+  },
+  "UsageTerms": {
+    "id": "UsageTerms",
+    "val": "http://creativecommons.org/licenses/by-sa/2.0/deed.en"
+  },
+  "ProfileCMMType": {
+    "id": "0x0004",
+    "val": "Lino"
+  },
+  "ProfileVersion": {
+    "id": "0x0008",
+    "val": "2.1.0"
+  },
+  "ProfileClass": {
+    "id": "0x000c",
+    "val": "Display Device Profile"
+  },
+  "ColorSpaceData": {
+    "id": "0x0010",
+    "val": "RGB "
+  },
+  "ProfileConnectionSpace": {
+    "id": "0x0014",
+    "val": "XYZ "
+  },
+  "ProfileDateTime": {
+    "id": "0x0018",
+    "val": "1998:02:09 06:49:00"
+  },
+  "ProfileFileSignature": {
+    "id": "0x0024",
+    "val": "acsp"
+  },
+  "PrimaryPlatform": {
+    "id": "0x0028",
+    "val": "Microsoft Corporation"
+  },
+  "CMMFlags": {
+    "id": "0x002c",
+    "val": "Not Embedded, Independent"
+  },
+  "DeviceManufacturer": {
+    "id": "0x0030",
+    "val": "IEC "
+  },
+  "DeviceModel": {
+    "id": "0x0034",
+    "val": "sRGB"
+  },
+  "DeviceAttributes": {
+    "id": "0x0038",
+    "val": "Reflective, Glossy, Positive, Color"
+  },
+  "RenderingIntent": {
+    "id": "0x0040",
+    "val": "Perceptual"
+  },
+  "ConnectionSpaceIlluminant": {
+    "id": "0x0044",
+    "val": "0.9642 1 0.82491"
+  },
+  "ProfileCreator": {
+    "id": "0x0050",
+    "val": "HP  "
+  },
+  "ProfileID": {
+    "id": "0x0054",
+    "val": 0
+  },
+  "ProfileCopyright": {
+    "id": "cprt",
+    "val": "Copyright (c) 1998 Hewlett-Packard Company"
+  },
+  "ProfileDescription": {
+    "id": "desc",
+    "val": "sRGB IEC61966-2.1"
+  },
+  "MediaWhitePoint": {
+    "id": "wtpt",
+    "val": "0.95045 1 1.08905"
+  },
+  "MediaBlackPoint": {
+    "id": "bkpt",
+    "val": "0 0 0"
+  },
+  "RedMatrixColumn": {
+    "id": "rXYZ",
+    "val": "0.43607 0.22249 0.01392"
+  },
+  "GreenMatrixColumn": {
+    "id": "gXYZ",
+    "val": "0.38515 0.71687 0.09708"
+  },
+  "BlueMatrixColumn": {
+    "id": "bXYZ",
+    "val": "0.14307 0.06061 0.7141"
+  },
+  "DeviceMfgDesc": {
+    "id": "dmnd",
+    "val": "IEC http://www.iec.ch"
+  },
+  "DeviceModelDesc": {
+    "id": "dmdd",
+    "val": "IEC 61966-2.1 Default RGB colour space - sRGB"
+  },
+  "ViewingCondDesc": {
+    "id": "vued",
+    "val": "Reference Viewing Condition in IEC61966-2.1"
+  },
+  "ViewingCondIlluminant": {
+    "id": "0x0008",
+    "val": "19.6445 20.3718 16.8089"
+  },
+  "ViewingCondSurround": {
+    "id": "0x0014",
+    "val": "3.92889 4.07439 3.36179"
+  },
+  "ViewingCondIlluminantType": {
+    "id": "0x0020",
+    "val": "D50"
+  },
+  "Luminance": {
+    "id": "lumi",
+    "val": "76.03647 80 87.12462"
+  },
+  "MeasurementObserver": {
+    "id": "0x0008",
+    "val": "CIE 1931"
+  },
+  "MeasurementBacking": {
+    "id": "0x000c",
+    "val": "0 0 0"
+  },
+  "MeasurementGeometry": {
+    "id": "0x0018",
+    "val": "Unknown (0)"
+  },
+  "MeasurementFlare": {
+    "id": "0x001c",
+    "val": "0.999%"
+  },
+  "MeasurementIlluminant": {
+    "id": "0x0020",
+    "val": "D65"
+  },
+  "Technology": {
+    "id": "tech",
+    "val": "Cathode Ray Tube Display"
+  },
+  "RedTRC": {
+    "id": "rTRC",
+    "val": "(Binary data 2060 bytes)"
+  },
+  "GreenTRC": {
+    "id": "gTRC",
+    "val": "(Binary data 2060 bytes)"
+  },
+  "BlueTRC": {
+    "id": "bTRC",
+    "val": "(Binary data 2060 bytes)"
+  },
+  "CurrentIPTCDigest": {
+    "id": "CurrentIPTCDigest",
+    "val": "e5aa060269df4522859c359af2b80665"
+  },
+  "CodedCharacterSet": {
+    "id": "0x005a",
+    "val": "UTF8"
+  },
+  "ApplicationRecordVersion": {
+    "id": "0x0000",
+    "val": 2
+  },
+  "By-line": {
+    "id": "0x0050",
+    "val": "Sebastian Bergmann"
+  },
+  "Headline": {
+    "id": "0x0069",
+    "val": "Googleplex entrance in Moutain View, California"
+  },
+  "Sub-location": {
+    "id": "0x005c",
+    "val": "Google campus"
+  },
+  "Source": {
+    "id": "0x0073",
+    "val": "http://flickr.com/photos/90237600@N00/1566334222"
+  },
+  "Caption-Abstract": {
+    "id": "0x0078",
+    "val": "The Googleplex is the corporate headquarters complex of Google, Inc., located at 1600 Amphitheatre Parkway in Mountain View, Santa Clara County, California, United States, near San Jose."
+  },
+  "Credit": {
+    "id": "0x006e",
+    "val": "Flickr"
+  },
+  "DateCreated": {
+    "id": "0x0037",
+    "val": "2007:10:06"
+  },
+  "CopyrightNotice": {
+    "id": "0x0074",
+    "val": "CC-by-sa"
+  },
+  "Keywords": {
+    "id": "0x0019",
+    "val": ["california","google","googleplex","mountain view"]
+  },
+  "TimeCreated": {
+    "id": "0x003c",
+    "val": "15:43:07+02:00"
+  },
+  "Province-State": {
+    "id": "0x005f",
+    "val": "California"
+  },
+  "ObjectName": {
+    "id": "0x0005",
+    "val": "Googleplex entrance in Moutain View, California"
+  },
+  "City": {
+    "id": "0x005a",
+    "val": "Mountain View"
+  },
+  "Country-PrimaryLocationName": {
+    "id": "0x0065",
+    "val": "USA"
+  },
+  "ImageWidth": {
+    "id": "ImageWidth",
+    "val": 800
+  },
+  "ImageHeight": {
+    "id": "ImageHeight",
+    "val": 381
+  },
+  "EncodingProcess": {
+    "id": "EncodingProcess",
+    "val": "Baseline DCT, Huffman coding"
+  },
+  "BitsPerSample": {
+    "id": "BitsPerSample",
+    "val": 8
+  },
+  "ColorComponents": {
+    "id": "ColorComponents",
+    "val": 3
+  },
+  "YCbCrSubSampling": {
+    "id": "YCbCrSubSampling",
+    "val": "YCbCr4:4:4 (1 1)"
+  },
+  "DateTimeCreated": {
+    "id": "DateTimeCreated",
+    "val": "2007:10:06 15:43:07+02:00"
+  },
+  "DateTimeOriginal": {
+    "id": "DateTimeOriginal",
+    "val": "2007:10:06 15:43:07+02:00"
+  },
+  "ImageSize": {
+    "id": "ImageSize",
+    "val": "800x381"
+  }
+}]

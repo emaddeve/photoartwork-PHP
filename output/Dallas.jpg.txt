@@ -1,0 +1,39 @@
+---- EXIF ----
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Y Cb Cr Positioning             : Centered
+Exif Version                    : 0231
+Components Configuration        : Y, Cb, Cr, -
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 800
+Exif Image Height               : 489
+---- XMP ----
+XMP Toolkit                     : XMP Core 5.1.2
+Title                           : Dallas Skyline at dusk
+Creator                         : Drumguy8800
+Subject                         : dallas, dusk, skyline, texas
+Description                     : Dallas was founded in 1841 and formally incorporated as a city in February 1856. The city's economy is primarily based on banking, commerce, telecommunications, computer technology, energy, healthcare and medical research, transportation and logistics. The city is home to the third largest concentration of Fortune 500 companies in the nation. Located in North Texas, Dallas is the main core of the largest inland metropolitan area in the United States that lacks any navigable link to the sea.
+Rights                          : GNU Free Documentation License
+Country                         : USA
+State                           : Texas
+Creator Work URL                : http://en.wikipedia.org/wiki/User:Drumguy8800/Gallery
+Usage Terms                     : http://commons.wikimedia.org/wiki/Commons:GNU_Free_Documentation_License_1.2
+---- IPTC ----
+Coded Character Set             : UTF8
+Application Record Version      : 2
+By-line                         : Drumguy8800
+Headline                        : Dallas Skyline at dusk
+Source                          : http://commons.wikimedia.org/wiki/File:Xvisionx_Dallas_Stemmons.jpg
+Caption-Abstract                : Dallas was founded in 1841 and formally incorporated as a city in February 1856. The city's economy is primarily based on banking, commerce, telecommunications, computer technology, energy, healthcare and medical research, transportation and logistics. The city is home to the third largest concentration of Fortune 500 companies in the nation. Located in North Texas, Dallas is the main core of the largest inland metropolitan area in the United States that lacks any navigable link to the sea.
+Credit                          : Wikimedia Commons
+Date Created                    : 2013:07:23
+Copyright Notice                : GNU Free Documentation License
+Keywords                        : dallas, dusk, skyline, texas
+Time Created                    : 20:40:36+02:00
+Province-State                  : Texas
+Object Name                     : Dallas Skyline at dusk
+City                            : Dallas
+Country-Primary Location Name   : USA

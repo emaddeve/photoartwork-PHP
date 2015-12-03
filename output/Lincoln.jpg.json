@@ -1,0 +1,52 @@
+[{
+  "SourceFile": "images//Lincoln.jpg",
+  "EXIF": {
+    "Orientation": "Horizontal (normal)",
+    "XResolution": 72,
+    "YResolution": 72,
+    "ResolutionUnit": "inches",
+    "YCbCrPositioning": "Centered",
+    "ExifVersion": "0231",
+    "ComponentsConfiguration": "Y, Cb, Cr, -",
+    "FlashpixVersion": "0100",
+    "ColorSpace": "sRGB",
+    "ExifImageWidth": 800,
+    "ExifImageHeight": 532
+  },
+  "XMP": {
+    "XMPToolkit": "XMP Core 5.1.2",
+    "Title": "Lincoln Memorial",
+    "Creator": "Jeff Kubina",
+    "Subject": ["lincoln","lincoln memorial","washington dc"],
+    "Description": "The Lincoln Memorial is an American national monument built to honor the 16th President of the United States, Abraham Lincoln. It is located on the National Mall in Washington, D.C. across from the Washington Monument. The architect was Henry Bacon, the sculptor of the primary statue – Abraham Lincoln, 1920 – was Daniel Chester French, and the painter of the interior murals was Jules Guerin. Dedicated in 1922, it is one of several monuments built to honor an American president.",
+    "Rights": "CC-by-sa",
+    "Headline": "Lincoln Memorial",
+    "Country": "USA",
+    "City": "Washington DC",
+    "DateCreated": "2013:10:07 09:14:08+02:00",
+    "Source": "http://www.flickr.com/photos/95118988@N00/1372774027/",
+    "Credit": "Flickr",
+    "State": "District of Columbia",
+    "CreatorWorkURL": "http://www.flickr.com/people/95118988@N00",
+    "Location": "Lincoln Memorial",
+    "UsageTerms": "http://creativecommons.org/licenses/by-sa/2.0/deed.en"
+  },
+  "IPTC": {
+    "CodedCharacterSet": "UTF8",
+    "ApplicationRecordVersion": 2,
+    "By-line": "Jeff Kubina",
+    "Headline": "Lincoln Memorial",
+    "Sub-location": "Lincoln Memorial",
+    "Source": "http://www.flickr.com/photos/95118988@N00/1372774027/",
+    "Caption-Abstract": "The Lincoln Memorial is an American national monument built to honor the 16th President of the United States, Abraham Lincoln. It is located on the National Mall in Washington, D.C. across from the Washington Monument. The architect was Henry Bacon, the sculptor of the primary statue – Abraham Lincoln, 1920 – was Daniel Chester French, and the painter of the interior murals was Jules Guerin. Dedicated in 1922, it is one of several monuments built to honor an American president.",
+    "Credit": "Flickr",
+    "DateCreated": "2013:10:07",
+    "CopyrightNotice": "CC-by-sa",
+    "Keywords": ["lincoln","lincoln memorial","washington dc"],
+    "TimeCreated": "09:14:08+02:00",
+    "Province-State": "District of Columbia",
+    "ObjectName": "Lincoln Memorial",
+    "City": "Washington DC",
+    "Country-PrimaryLocationName": "USA"
+  }
+}]

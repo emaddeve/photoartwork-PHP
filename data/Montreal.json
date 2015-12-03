@@ -1,0 +1,727 @@
+[{
+  "SourceFile": "Montreal.jpg",
+  "ExifToolVersion": {
+    "id": "ExifToolVersion",
+    "val": 9.46
+  },
+  "FileName": {
+    "id": "FileName",
+    "val": "Montreal.jpg"
+  },
+  "Directory": {
+    "id": "Directory",
+    "val": "."
+  },
+  "FileSize": {
+    "id": "FileSize",
+    "val": "2.7 MB"
+  },
+  "FileModifyDate": {
+    "id": "FileModifyDate",
+    "val": "2013:10:07 21:33:39+02:00"
+  },
+  "FileAccessDate": {
+    "id": "FileAccessDate",
+    "val": "2015:11:11 00:36:19+01:00"
+  },
+  "FileInodeChangeDate": {
+    "id": "FileInodeChangeDate",
+    "val": "2015:11:11 00:24:15+01:00"
+  },
+  "FilePermissions": {
+    "id": "FilePermissions",
+    "val": "rw-r--r--"
+  },
+  "FileType": {
+    "id": "FileType",
+    "val": "JPEG"
+  },
+  "MIMEType": {
+    "id": "MIMEType",
+    "val": "image/jpeg"
+  },
+  "ExifByteOrder": {
+    "id": "ExifByteOrder",
+    "val": "Little-endian (Intel, II)"
+  },
+  "Make": {
+    "id": "0x010f",
+    "val": "Canon"
+  },
+  "Model": {
+    "id": "0x0110",
+    "val": "Canon PowerShot SD400"
+  },
+  "Orientation": {
+    "id": "0x0112",
+    "val": "Horizontal (normal)"
+  },
+  "XResolution": {
+    "id": "0x011a",
+    "val": 180
+  },
+  "YResolution": {
+    "id": "0x011b",
+    "val": 180
+  },
+  "ResolutionUnit": {
+    "id": "0x0128",
+    "val": "inches"
+  },
+  "ModifyDate": {
+    "id": "0x0132",
+    "val": "2009:10:19 12:42:58"
+  },
+  "YCbCrPositioning": {
+    "id": "0x0213",
+    "val": "Centered"
+  },
+  "ExposureTime": {
+    "id": "0x829a",
+    "val": "1/320"
+  },
+  "FNumber": {
+    "id": "0x829d",
+    "val": 5.6
+  },
+  "ExifVersion": {
+    "id": "0x9000",
+    "val": "0220"
+  },
+  "DateTimeOriginal": {
+    "id": "0x9003",
+    "val": "2009:10:19 12:42:58"
+  },
+  "CreateDate": {
+    "id": "0x9004",
+    "val": "2009:10:19 12:42:58"
+  },
+  "ComponentsConfiguration": {
+    "id": "0x9101",
+    "val": "Y, Cb, Cr, -"
+  },
+  "CompressedBitsPerPixel": {
+    "id": "0x9102",
+    "val": 5
+  },
+  "ShutterSpeedValue": {
+    "id": "0x9201",
+    "val": "1/318"
+  },
+  "ApertureValue": {
+    "id": "0x9202",
+    "val": 5.6
+  },
+  "MaxApertureValue": {
+    "id": "0x9205",
+    "val": 2.8
+  },
+  "Flash": {
+    "id": "0x9209",
+    "val": "Auto, Did not fire"
+  },
+  "FocalLength": {
+    "id": "0x920a",
+    "val": "5.8 mm"
+  },
+  "Warning": {
+    "id": "Warning",
+    "val": "[minor] Adjusted MakerNotes base by -10"
+  },
+  "MacroMode": {
+    "id": "0x0001",
+    "val": "Normal"
+  },
+  "SelfTimer": {
+    "id": "0x0002",
+    "val": "Off"
+  },
+  "Quality": {
+    "id": "0x0003",
+    "val": "Superfine"
+  },
+  "CanonFlashMode": {
+    "id": "0x0004",
+    "val": "Auto"
+  },
+  "ContinuousDrive": {
+    "id": "0x0005",
+    "val": "Single"
+  },
+  "FocusMode": {
+    "id": "0x0007",
+    "val": "Single"
+  },
+  "RecordMode": {
+    "id": "0x0009",
+    "val": "JPEG"
+  },
+  "CanonImageSize": {
+    "id": "0x000a",
+    "val": "Large"
+  },
+  "EasyMode": {
+    "id": "0x000b",
+    "val": "Full auto"
+  },
+  "DigitalZoom": {
+    "id": "0x000c",
+    "val": "None"
+  },
+  "Contrast": {
+    "id": "0x000d",
+    "val": "Normal"
+  },
+  "Saturation": {
+    "id": "0x000e",
+    "val": "Normal"
+  },
+  "Sharpness": {
+    "id": "0x000f",
+    "val": 0
+  },
+  "CameraISO": {
+    "id": "0x0010",
+    "val": "Auto"
+  },
+  "MeteringMode": {
+    "id": "0x0011",
+    "val": "Evaluative"
+  },
+  "FocusRange": {
+    "id": "0x0012",
+    "val": "Auto"
+  },
+  "AFPoint": {
+    "id": "0x0013",
+    "val": "Auto AF point selection"
+  },
+  "CanonExposureMode": {
+    "id": "0x0014",
+    "val": "Easy"
+  },
+  "LensType": {
+    "id": "0x0016",
+    "val": "Unknown (-1)"
+  },
+  "MaxFocalLength": {
+    "id": "0x0017",
+    "val": "17.4 mm"
+  },
+  "MinFocalLength": {
+    "id": "0x0018",
+    "val": "5.8 mm"
+  },
+  "FocalUnits": {
+    "id": "0x0019",
+    "val": "1000/mm"
+  },
+  "MaxAperture": {
+    "id": "0x001a",
+    "val": 2.8
+  },
+  "MinAperture": {
+    "id": "0x001b",
+    "val": 5.6
+  },
+  "FlashBits": {
+    "id": "0x001d",
+    "val": "(none)"
+  },
+  "FocusContinuous": {
+    "id": "0x0020",
+    "val": "Single"
+  },
+  "AESetting": {
+    "id": "0x0021",
+    "val": "Normal AE"
+  },
+  "ZoomSourceWidth": {
+    "id": "0x0024",
+    "val": 2592
+  },
+  "ZoomTargetWidth": {
+    "id": "0x0025",
+    "val": 2592
+  },
+  "SpotMeteringMode": {
+    "id": "0x0027",
+    "val": "Center"
+  },
+  "PhotoEffect": {
+    "id": "0x0028",
+    "val": "Off"
+  },
+  "ManualFlashOutput": {
+    "id": "0x0029",
+    "val": "n/a"
+  },
+  "FocalType": {
+    "id": "0x0000",
+    "val": "Zoom"
+  },
+  "FocalPlaneXSize": {
+    "id": "0x0002",
+    "val": "5.84 mm"
+  },
+  "FocalPlaneYSize": {
+    "id": "0x0003",
+    "val": "4.37 mm"
+  },
+  "AutoISO": {
+    "id": "0x0001",
+    "val": 100
+  },
+  "BaseISO": {
+    "id": "0x0002",
+    "val": 50
+  },
+  "MeasuredEV": {
+    "id": "0x0003",
+    "val": 14.88
+  },
+  "TargetAperture": {
+    "id": "0x0004",
+    "val": 5.6
+  },
+  "TargetExposureTime": {
+    "id": "0x0005",
+    "val": "1/318"
+  },
+  "ExposureCompensation": {
+    "id": "0x0006",
+    "val": 0
+  },
+  "WhiteBalance": {
+    "id": "0x0007",
+    "val": "Auto"
+  },
+  "SlowShutter": {
+    "id": "0x0008",
+    "val": "Off"
+  },
+  "SequenceNumber": {
+    "id": "0x0009",
+    "val": 0
+  },
+  "OpticalZoomCode": {
+    "id": "0x000a",
+    "val": 0
+  },
+  "FlashGuideNumber": {
+    "id": "0x000d",
+    "val": 0
+  },
+  "FlashExposureComp": {
+    "id": "0x000f",
+    "val": 0
+  },
+  "AutoExposureBracketing": {
+    "id": "0x0010",
+    "val": "Off"
+  },
+  "AEBBracketValue": {
+    "id": "0x0011",
+    "val": 0
+  },
+  "ControlMode": {
+    "id": "0x0012",
+    "val": "Camera Local Control"
+  },
+  "FocusDistanceUpper": {
+    "id": "0x0013",
+    "val": "1.38 m"
+  },
+  "FocusDistanceLower": {
+    "id": "0x0014",
+    "val": "0 m"
+  },
+  "BulbDuration": {
+    "id": "0x0018",
+    "val": 0
+  },
+  "CameraType": {
+    "id": "0x001a",
+    "val": "Compact"
+  },
+  "AutoRotate": {
+    "id": "0x001b",
+    "val": "None"
+  },
+  "NDFilter": {
+    "id": "0x001c",
+    "val": "Off"
+  },
+  "SelfTimer2": {
+    "id": "0x001d",
+    "val": 0
+  },
+  "FlashOutput": {
+    "id": "0x0021",
+    "val": 0
+  },
+  "NumAFPoints": {
+    "id": "0x0000",
+    "val": 9
+  },
+  "ValidAFPoints": {
+    "id": "0x0001",
+    "val": 9
+  },
+  "CanonImageWidth": {
+    "id": "0x0002",
+    "val": 2592
+  },
+  "CanonImageHeight": {
+    "id": "0x0003",
+    "val": 1944
+  },
+  "AFImageWidth": {
+    "id": "0x0004",
+    "val": 1296
+  },
+  "AFImageHeight": {
+    "id": "0x0005",
+    "val": 242
+  },
+  "AFAreaWidth": {
+    "id": "0x0006",
+    "val": 233
+  },
+  "AFAreaHeight": {
+    "id": "0x0007",
+    "val": 44
+  },
+  "AFAreaXPositions": {
+    "id": "0x0008",
+    "val": "-233 0 233 -233 0 233 -233 0 233"
+  },
+  "AFAreaYPositions": {
+    "id": "0x0009",
+    "val": "-45 -45 -45 0 0 0 45 45 45"
+  },
+  "AFPointsInFocus": {
+    "id": "0x000a",
+    "val": "1,2"
+  },
+  "PrimaryAFPoint": {
+    "id": "0x000b",
+    "val": 1
+  },
+  "ThumbnailImageValidArea": {
+    "id": "0x0013",
+    "val": "0 0 0 0"
+  },
+  "CanonImageType": {
+    "id": "0x0006",
+    "val": "IMG:PowerShot SD400 JPEG"
+  },
+  "CanonFirmwareVersion": {
+    "id": "0x0007",
+    "val": "Firmware Version 1.01"
+  },
+  "FileNumber": {
+    "id": "0x0008",
+    "val": "260-6042"
+  },
+  "OwnerName": {
+    "id": "0x0009",
+    "val": ""
+  },
+  "CanonModelID": {
+    "id": "0x0010",
+    "val": "PowerShot SD400 / Digital IXUS 50 / IXY Digital 55"
+  },
+  "CameraTemperature": {
+    "id": "0x005b",
+    "val": "25 C"
+  },
+  "DateStampMode": {
+    "id": "0x001c",
+    "val": "Off"
+  },
+  "MyColorMode": {
+    "id": "0x0002",
+    "val": "Off"
+  },
+  "FirmwareRevision": {
+    "id": "0x001e",
+    "val": "1.01 rev 1.00"
+  },
+  "UserComment": {
+    "id": "0x9286",
+    "val": ""
+  },
+  "FlashpixVersion": {
+    "id": "0xa000",
+    "val": "0100"
+  },
+  "ColorSpace": {
+    "id": "0xa001",
+    "val": "sRGB"
+  },
+  "ExifImageWidth": {
+    "id": "0xa002",
+    "val": 2592
+  },
+  "ExifImageHeight": {
+    "id": "0xa003",
+    "val": 1944
+  },
+  "InteropIndex": {
+    "id": "0x0001",
+    "val": "R98 - DCF basic file (sRGB)"
+  },
+  "InteropVersion": {
+    "id": "0x0002",
+    "val": "0100"
+  },
+  "RelatedImageWidth": {
+    "id": "0x1001",
+    "val": 2592
+  },
+  "RelatedImageHeight": {
+    "id": "0x1002",
+    "val": 1944
+  },
+  "FocalPlaneXResolution": {
+    "id": "0xa20e",
+    "val": 11520
+  },
+  "FocalPlaneYResolution": {
+    "id": "0xa20f",
+    "val": 11571.42857
+  },
+  "FocalPlaneResolutionUnit": {
+    "id": "0xa210",
+    "val": "inches"
+  },
+  "SensingMethod": {
+    "id": "0xa217",
+    "val": "One-chip color area"
+  },
+  "FileSource": {
+    "id": "0xa300",
+    "val": "Digital Camera"
+  },
+  "CustomRendered": {
+    "id": "0xa401",
+    "val": "Normal"
+  },
+  "ExposureMode": {
+    "id": "0xa402",
+    "val": "Auto"
+  },
+  "DigitalZoomRatio": {
+    "id": "0xa404",
+    "val": 1
+  },
+  "SceneCaptureType": {
+    "id": "0xa406",
+    "val": "Standard"
+  },
+  "Compression": {
+    "id": "0x0103",
+    "val": "JPEG (old-style)"
+  },
+  "ThumbnailOffset": {
+    "id": "0x0201",
+    "val": 2376
+  },
+  "ThumbnailLength": {
+    "id": "0x0202",
+    "val": 5257
+  },
+  "XMPToolkit": {
+    "id": "xmptk",
+    "val": "XMP Core 5.1.2"
+  },
+  "Country": {
+    "id": "Country",
+    "val": "Canada"
+  },
+  "State": {
+    "id": "State",
+    "val": "Quebec"
+  },
+  "Location": {
+    "id": "Location",
+    "val": "Mont Royal Lookout"
+  },
+  "Title": {
+    "id": "title",
+    "val": "Downtown Montreal from Mont Royal"
+  },
+  "Creator": {
+    "id": "creator",
+    "val": "Jean-Marc Lecarpentier"
+  },
+  "Subject": {
+    "id": "subject",
+    "val": ["canada","montreal","quebec"]
+  },
+  "Description": {
+    "id": "description",
+    "val": "View of downtown Montreal, Quebec, from Mont Royal. The Saint-Laurent river is seen in the background. "
+  },
+  "Rights": {
+    "id": "rights",
+    "val": "CC-by-nc-sa"
+  },
+  "CreatorWorkEmail": {
+    "id": "CreatorContactInfoCiEmailWork",
+    "val": "lecarpentier@unicaen.fr"
+  },
+  "CreatorWorkURL": {
+    "id": "CreatorContactInfoCiUrlWork",
+    "val": "https://ensweb.users.info.unicaen.fr"
+  },
+  "UsageTerms": {
+    "id": "UsageTerms",
+    "val": "http://creativecommons.org/licenses/by-nc-sa/3.0/"
+  },
+  "CurrentIPTCDigest": {
+    "id": "CurrentIPTCDigest",
+    "val": "11fd1ce561e62b9a32c1d3ce0dd5d504"
+  },
+  "CodedCharacterSet": {
+    "id": "0x005a",
+    "val": "UTF8"
+  },
+  "ApplicationRecordVersion": {
+    "id": "0x0000",
+    "val": 2
+  },
+  "By-line": {
+    "id": "0x0050",
+    "val": "Jean-Marc Lecarpentier"
+  },
+  "Headline": {
+    "id": "0x0069",
+    "val": "Downtown Montreal from Mont Royal"
+  },
+  "Sub-location": {
+    "id": "0x005c",
+    "val": "Mont Royal Lookout"
+  },
+  "Caption-Abstract": {
+    "id": "0x0078",
+    "val": "View of downtown Montreal, Quebec, from Mont Royal. The Saint-Laurent river is seen in the background. "
+  },
+  "Credit": {
+    "id": "0x006e",
+    "val": "Jean-Marc Lecarpentier"
+  },
+  "CopyrightNotice": {
+    "id": "0x0074",
+    "val": "CC-by-nc-sa"
+  },
+  "Keywords": {
+    "id": "0x0019",
+    "val": ["canada","montreal","quebec"]
+  },
+  "Province-State": {
+    "id": "0x005f",
+    "val": "Quebec"
+  },
+  "ObjectName": {
+    "id": "0x0005",
+    "val": "Downtown Montreal from Mont Royal"
+  },
+  "City": {
+    "id": "0x005a",
+    "val": "Montreal"
+  },
+  "Country-PrimaryLocationName": {
+    "id": "0x0065",
+    "val": "Canada"
+  },
+  "ImageWidth": {
+    "id": "ImageWidth",
+    "val": 2592
+  },
+  "ImageHeight": {
+    "id": "ImageHeight",
+    "val": 1944
+  },
+  "EncodingProcess": {
+    "id": "EncodingProcess",
+    "val": "Baseline DCT, Huffman coding"
+  },
+  "BitsPerSample": {
+    "id": "BitsPerSample",
+    "val": 8
+  },
+  "ColorComponents": {
+    "id": "ColorComponents",
+    "val": 3
+  },
+  "YCbCrSubSampling": {
+    "id": "YCbCrSubSampling",
+    "val": "YCbCr4:2:2 (2 1)"
+  },
+  "Aperture": {
+    "id": "Aperture",
+    "val": 5.6
+  },
+  "DriveMode": {
+    "id": "DriveMode",
+    "val": "Single-frame Shooting"
+  },
+  "ISO": {
+    "id": "ISO",
+    "val": 50
+  },
+  "ImageSize": {
+    "id": "ImageSize",
+    "val": "2592x1944"
+  },
+  "Lens": {
+    "id": "Lens",
+    "val": "5.8 - 17.4 mm"
+  },
+  "LensID": {
+    "id": "LensID",
+    "val": "Unknown 5-17mm"
+  },
+  "ScaleFactor35efl": {
+    "id": "ScaleFactor35efl",
+    "val": 6.1
+  },
+  "ShootingMode": {
+    "id": "ShootingMode",
+    "val": "Full auto"
+  },
+  "ShutterSpeed": {
+    "id": "ShutterSpeed",
+    "val": "1/320"
+  },
+  "ThumbnailImage": {
+    "id": "ThumbnailImage",
+    "val": "(Binary data 5257 bytes)"
+  },
+  "CircleOfConfusion": {
+    "id": "CircleOfConfusion",
+    "val": "0.005 mm"
+  },
+  "FOV": {
+    "id": "FOV",
+    "val": "54.2 deg"
+  },
+  "FocalLength35efl": {
+    "id": "FocalLength35efl",
+    "val": "5.8 mm (35 mm equivalent: 35.2 mm)"
+  },
+  "HyperfocalDistance": {
+    "id": "HyperfocalDistance",
+    "val": "1.21 m"
+  },
+  "Lens35efl": {
+    "id": "Lens35efl",
+    "val": "5.8 - 17.4 mm (35 mm equivalent: 35.2 - 105.6 mm)"
+  },
+  "LightValue": {
+    "id": "LightValue",
+    "val": 14.3
+  }
+}]

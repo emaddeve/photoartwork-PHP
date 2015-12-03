@@ -1,0 +1,227 @@
+[{
+  "SourceFile": "Detroit.jpg",
+  "ExifToolVersion": {
+    "id": "ExifToolVersion",
+    "val": 9.46
+  },
+  "FileName": {
+    "id": "FileName",
+    "val": "Detroit.jpg"
+  },
+  "Directory": {
+    "id": "Directory",
+    "val": "."
+  },
+  "FileSize": {
+    "id": "FileSize",
+    "val": "134 kB"
+  },
+  "FileModifyDate": {
+    "id": "FileModifyDate",
+    "val": "2013:10:07 21:33:39+02:00"
+  },
+  "FileAccessDate": {
+    "id": "FileAccessDate",
+    "val": "2015:11:11 00:36:19+01:00"
+  },
+  "FileInodeChangeDate": {
+    "id": "FileInodeChangeDate",
+    "val": "2015:11:11 00:24:15+01:00"
+  },
+  "FilePermissions": {
+    "id": "FilePermissions",
+    "val": "rw-r--r--"
+  },
+  "FileType": {
+    "id": "FileType",
+    "val": "JPEG"
+  },
+  "MIMEType": {
+    "id": "MIMEType",
+    "val": "image/jpeg"
+  },
+  "ExifByteOrder": {
+    "id": "ExifByteOrder",
+    "val": "Big-endian (Motorola, MM)"
+  },
+  "Orientation": {
+    "id": "0x0112",
+    "val": "Horizontal (normal)"
+  },
+  "XResolution": {
+    "id": "0x011a",
+    "val": 72
+  },
+  "YResolution": {
+    "id": "0x011b",
+    "val": 72
+  },
+  "ResolutionUnit": {
+    "id": "0x0128",
+    "val": "inches"
+  },
+  "YCbCrPositioning": {
+    "id": "0x0213",
+    "val": "Centered"
+  },
+  "ExifVersion": {
+    "id": "0x9000",
+    "val": "0231"
+  },
+  "ComponentsConfiguration": {
+    "id": "0x9101",
+    "val": "Y, Cb, Cr, -"
+  },
+  "FlashpixVersion": {
+    "id": "0xa000",
+    "val": "0100"
+  },
+  "ColorSpace": {
+    "id": "0xa001",
+    "val": "sRGB"
+  },
+  "ExifImageWidth": {
+    "id": "0xa002",
+    "val": 800
+  },
+  "ExifImageHeight": {
+    "id": "0xa003",
+    "val": 533
+  },
+  "XMPToolkit": {
+    "id": "xmptk",
+    "val": "XMP Core 5.1.2"
+  },
+  "Title": {
+    "id": "title",
+    "val": "Abandoned Packard Automobile Factory, Detroit"
+  },
+  "Creator": {
+    "id": "creator",
+    "val": "Albert Duce"
+  },
+  "Subject": {
+    "id": "subject",
+    "val": ["abandoned","detroit","factory","michigan"]
+  },
+  "Description": {
+    "id": "description",
+    "val": "Western part of the abandoned Packard Automotive Plant in Detroit, Michigan."
+  },
+  "Rights": {
+    "id": "rights",
+    "val": "CC-by-sa"
+  },
+  "Country": {
+    "id": "Country",
+    "val": "USA"
+  },
+  "State": {
+    "id": "State",
+    "val": "Michigan"
+  },
+  "UsageTerms": {
+    "id": "UsageTerms",
+    "val": "http://creativecommons.org/licenses/by-sa/3.0/deed.en"
+  },
+  "CurrentIPTCDigest": {
+    "id": "CurrentIPTCDigest",
+    "val": "45855ea6e591fdf0314c3cc4176e855c"
+  },
+  "CodedCharacterSet": {
+    "id": "0x005a",
+    "val": "UTF8"
+  },
+  "ApplicationRecordVersion": {
+    "id": "0x0000",
+    "val": 2
+  },
+  "By-line": {
+    "id": "0x0050",
+    "val": "Albert Duce"
+  },
+  "Headline": {
+    "id": "0x0069",
+    "val": "Abandoned Packard Automobile Factory, Detroit"
+  },
+  "Source": {
+    "id": "0x0073",
+    "val": "http://commons.wikimedia.org/wiki/File:Abandoned_Packard_Automobile_Factory_Detroit_200.jpg"
+  },
+  "Caption-Abstract": {
+    "id": "0x0078",
+    "val": "Western part of the abandoned Packard Automotive Plant in Detroit, Michigan."
+  },
+  "Credit": {
+    "id": "0x006e",
+    "val": "Wikimedia Commons"
+  },
+  "DateCreated": {
+    "id": "0x0037",
+    "val": "2009:10:07"
+  },
+  "CopyrightNotice": {
+    "id": "0x0074",
+    "val": "CC-by-sa"
+  },
+  "Keywords": {
+    "id": "0x0019",
+    "val": ["abandoned","detroit","factory","michigan"]
+  },
+  "Province-State": {
+    "id": "0x005f",
+    "val": "Michigan"
+  },
+  "TimeCreated": {
+    "id": "0x003c",
+    "val": "16:04:52+02:00"
+  },
+  "ObjectName": {
+    "id": "0x0005",
+    "val": "Abandoned Packard Automobile Factory, Detroit"
+  },
+  "City": {
+    "id": "0x005a",
+    "val": "Detroit"
+  },
+  "Country-PrimaryLocationName": {
+    "id": "0x0065",
+    "val": "USA"
+  },
+  "ImageWidth": {
+    "id": "ImageWidth",
+    "val": 800
+  },
+  "ImageHeight": {
+    "id": "ImageHeight",
+    "val": 533
+  },
+  "EncodingProcess": {
+    "id": "EncodingProcess",
+    "val": "Baseline DCT, Huffman coding"
+  },
+  "BitsPerSample": {
+    "id": "BitsPerSample",
+    "val": 8
+  },
+  "ColorComponents": {
+    "id": "ColorComponents",
+    "val": 3
+  },
+  "YCbCrSubSampling": {
+    "id": "YCbCrSubSampling",
+    "val": "YCbCr4:2:0 (2 2)"
+  },
+  "DateTimeCreated": {
+    "id": "DateTimeCreated",
+    "val": "2009:10:07 16:04:52+02:00"
+  },
+  "DateTimeOriginal": {
+    "id": "DateTimeOriginal",
+    "val": "2009:10:07 16:04:52+02:00"
+  },
+  "ImageSize": {
+    "id": "ImageSize",
+    "val": "800x533"
+  }
+}]

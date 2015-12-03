@@ -1,0 +1,78 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>PhotoArtWork2</title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <!-- stylesheets -->
+  <link href="css/style.css" rel="stylesheet" type="text/css" />
+  <link href="css/colour.css" rel="stylesheet" type="text/css" />
+  <!-- modernizr enables HTML5 elements and feature detects -->
+  <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
+</head>
+
+<body>
+  <div id="main">
+
+    <!-- begin header -->
+    <header>
+      <div id="logo"><h1>by<a href="#">Al Rifai</a>Emad</h1></div>
+      <nav>
+        <ul class="sf-menu" id="nav">
+          <li class="selected"><a href="index.html">home</a></li>
+          <li><a href="uploads.php">upload</a></li>
+          <li><a href="#">my portfolio</a>
+            <ul>
+              <li><a href="portfolio_one.html">portfolio_one</a></li>
+              <li><a href="portfolio_two.html">portfolio_two</a></li>
+            </ul>
+          </li>
+          <li><a href="blog.html">blog</a></li>
+          <li><a href="contact.html">contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <!-- end header -->
+
+    <!-- begin content -->
+    <div id="site_content">
+      <ul class="slideshow">
+        <li class="show"><a href='details.php?imgid=Chicago.jpg'><img width="950" height="450" src="images/Chicago.jpg" alt="&quot;You can put a caption for your image right here&quot;" /></a></li>
+        <li><a href='details.php?imgid=Cupertino.jpg'><img width="950" height="450" src="images/Cupertino.jpg" alt="&quot;You can put a description of the image here if you like, or anything else if you want.&quot;" /></a></li>
+        <li><a href='details.php?imgid=Dallas.jpg'><img width="950" height="450" src="images/Dallas.jpg" alt="&quot;You can put a description of the image here if you like, or anything else if you want.&quot;" /></a></li>
+<li><a href='details.php?imgid=Detroit.jpg'><img width="950" height="450" src="images/Detroit.jpg" alt="&quot;You can put a description of the image here if you like, or anything else if you want.&quot;" /></a></li>
+<li><a href='details.php?imgid=Grand.jpg'><img width="950" height="450" src="images/Grand.jpg" alt="&quot;You can put a description of the image here if you like, or anything else if you want.&quot;" /></a></li>
+<li><a href='details.php?imgid=Joshua.jpg'><img width="950" height="450" src="images/Joshua.jpg" alt="&quot;You can put a description of the image here if you like, or anything else if you want.&quot;" /></a></li>
+<li><a href='details.php?imgid=Lincoln.jpg'><img width="950" height="450" src="images/Lincoln.jpg" alt="&quot;You can put a description of the image here if you like, or anything else if you want.&quot;" /></a></li>
+<li><a href='details.php?imgid=MIT.jpg'><img width="950" height="450" src="images/MIT.jpg" alt="&quot;You can put a description of the image here if you like, or anything else if you want.&quot;" /></a></li>
+<li><a href='details.php?imgid=Montreal.jpg'><img width="950" height="450" src="images/Montreal.jpg" alt="&quot;You can put a description of the image here if you like, or anything else if you want.&quot;" /></a></li>
+<li><a href='details.php?imgid=Mountain.jpg'><img width="950" height="450" src="images/Mountain.jpg" alt="&quot;You can put a description of the image here if you like, or anything else if you want.&quot;" /></a></li>
+<li><a href='details.php?imgid=White.jpg'><img width="950" height="450" src="images/White.jpg" alt="&quot;You can put a description of the image here if you like, or anything else if you want.&quot;" /></a></li>
+<li><a href='details.php?imgid=Yosemite.jpg'><img width="950" height="450" src="images/Yosemite.jpg" alt="&quot;You can put a description of the image here if you like, or anything else if you want.&quot;" /></a></li>
+      </ul>
+    </div>
+    <!-- end content -->
+
+    <!-- begin footer -->
+    <footer>
+      <p>Copyright &copy; 2012 PhotoArtWork2. All Rights Reserved. <a href="http://www.css3templates.co.uk">Design from css3templates.co.uk</a>.</p>
+      <p><img src="images/twitter.png" alt="twitter" />&nbsp;<img src="images/facebook.png" alt="facebook" />&nbsp;<img src="images/rss.png" alt="rss" /></p>
+    </footer>
+    <!-- end footer -->
+
+  </div>
+  <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+  <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
+  <script type="text/javascript" src="js/image_fade.js"></script>
+  <!-- initialise sooperfish menu -->
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('ul.sf-menu').sooperfish();
+    });
+  </script>
+</body>
+</html>

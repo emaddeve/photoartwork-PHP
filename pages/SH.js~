@@ -1,0 +1,14 @@
+(function($){
+  $(function(){
+    var $itemContent = $("#itemContent1");
+    $("#expandButton1").click(function(e){
+      e.preventDefault();
+      if($itemContent.hasClass('opened')){
+        $itemContent.slideUp('slow').toggleClass('closed opened');
+      } else {
+        $itemContent.slideDown('slow').toggleClass('closed opened');
+      }
+    });
+  });
+})(jQuery);
+

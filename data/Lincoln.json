@@ -1,0 +1,407 @@
+[{
+  "SourceFile": "Lincoln.jpg",
+  "ExifToolVersion": {
+    "id": "ExifToolVersion",
+    "val": 9.46
+  },
+  "FileName": {
+    "id": "FileName",
+    "val": "Lincoln.jpg"
+  },
+  "Directory": {
+    "id": "Directory",
+    "val": "."
+  },
+  "FileSize": {
+    "id": "FileSize",
+    "val": "75 kB"
+  },
+  "FileModifyDate": {
+    "id": "FileModifyDate",
+    "val": "2013:10:07 21:33:39+02:00"
+  },
+  "FileAccessDate": {
+    "id": "FileAccessDate",
+    "val": "2015:11:11 00:36:19+01:00"
+  },
+  "FileInodeChangeDate": {
+    "id": "FileInodeChangeDate",
+    "val": "2015:11:11 00:32:49+01:00"
+  },
+  "FilePermissions": {
+    "id": "FilePermissions",
+    "val": "rw-r--r--"
+  },
+  "FileType": {
+    "id": "FileType",
+    "val": "JPEG"
+  },
+  "MIMEType": {
+    "id": "MIMEType",
+    "val": "image/jpeg"
+  },
+  "ExifByteOrder": {
+    "id": "ExifByteOrder",
+    "val": "Big-endian (Motorola, MM)"
+  },
+  "Orientation": {
+    "id": "0x0112",
+    "val": "Horizontal (normal)"
+  },
+  "XResolution": {
+    "id": "0x011a",
+    "val": 72
+  },
+  "YResolution": {
+    "id": "0x011b",
+    "val": 72
+  },
+  "ResolutionUnit": {
+    "id": "0x0128",
+    "val": "inches"
+  },
+  "YCbCrPositioning": {
+    "id": "0x0213",
+    "val": "Centered"
+  },
+  "ExifVersion": {
+    "id": "0x9000",
+    "val": "0231"
+  },
+  "ComponentsConfiguration": {
+    "id": "0x9101",
+    "val": "Y, Cb, Cr, -"
+  },
+  "FlashpixVersion": {
+    "id": "0xa000",
+    "val": "0100"
+  },
+  "ColorSpace": {
+    "id": "0xa001",
+    "val": "sRGB"
+  },
+  "ExifImageWidth": {
+    "id": "0xa002",
+    "val": 800
+  },
+  "ExifImageHeight": {
+    "id": "0xa003",
+    "val": 532
+  },
+  "XMPToolkit": {
+    "id": "xmptk",
+    "val": "XMP Core 5.1.2"
+  },
+  "Title": {
+    "id": "title",
+    "val": "Lincoln Memorial"
+  },
+  "Creator": {
+    "id": "creator",
+    "val": "Jeff Kubina"
+  },
+  "Subject": {
+    "id": "subject",
+    "val": ["lincoln","lincoln memorial","washington dc"]
+  },
+  "Description": {
+    "id": "description",
+    "val": "The Lincoln Memorial is an American national monument built to honor the 16th President of the United States, Abraham Lincoln. It is located on the National Mall in Washington, D.C. across from the Washington Monument. The architect was Henry Bacon, the sculptor of the primary statue – Abraham Lincoln, 1920 – was Daniel Chester French, and the painter of the interior murals was Jules Guerin. Dedicated in 1922, it is one of several monuments built to honor an American president."
+  },
+  "Rights": {
+    "id": "rights",
+    "val": "CC-by-sa"
+  },
+  "Country": {
+    "id": "Country",
+    "val": "USA"
+  },
+  "State": {
+    "id": "State",
+    "val": "District of Columbia"
+  },
+  "CreatorWorkURL": {
+    "id": "CreatorContactInfoCiUrlWork",
+    "val": "http://www.flickr.com/people/95118988@N00"
+  },
+  "Location": {
+    "id": "Location",
+    "val": "Lincoln Memorial"
+  },
+  "UsageTerms": {
+    "id": "UsageTerms",
+    "val": "http://creativecommons.org/licenses/by-sa/2.0/deed.en"
+  },
+  "ProfileCMMType": {
+    "id": "0x0004",
+    "val": "appl"
+  },
+  "ProfileVersion": {
+    "id": "0x0008",
+    "val": "2.2.0"
+  },
+  "ProfileClass": {
+    "id": "0x000c",
+    "val": "Display Device Profile"
+  },
+  "ColorSpaceData": {
+    "id": "0x0010",
+    "val": "RGB "
+  },
+  "ProfileConnectionSpace": {
+    "id": "0x0014",
+    "val": "XYZ "
+  },
+  "ProfileDateTime": {
+    "id": "0x0018",
+    "val": "2000:08:13 16:06:07"
+  },
+  "ProfileFileSignature": {
+    "id": "0x0024",
+    "val": "acsp"
+  },
+  "PrimaryPlatform": {
+    "id": "0x0028",
+    "val": "Apple Computer Inc."
+  },
+  "CMMFlags": {
+    "id": "0x002c",
+    "val": "Not Embedded, Independent"
+  },
+  "DeviceManufacturer": {
+    "id": "0x0030",
+    "val": "appl"
+  },
+  "DeviceModel": {
+    "id": "0x0034",
+    "val": ""
+  },
+  "DeviceAttributes": {
+    "id": "0x0038",
+    "val": "Reflective, Glossy, Positive, Color"
+  },
+  "RenderingIntent": {
+    "id": "0x0040",
+    "val": "Media-Relative Colorimetric"
+  },
+  "ConnectionSpaceIlluminant": {
+    "id": "0x0044",
+    "val": "0.9642 1 0.82491"
+  },
+  "ProfileCreator": {
+    "id": "0x0050",
+    "val": "appl"
+  },
+  "ProfileID": {
+    "id": "0x0054",
+    "val": 0
+  },
+  "ProfileCopyright": {
+    "id": "cprt",
+    "val": "Copyright 1998 - 2003 Apple Computer Inc., all rights reserved."
+  },
+  "ProfileDescription": {
+    "id": "desc",
+    "val": "sRGB Profile"
+  },
+  "MediaWhitePoint": {
+    "id": "wtpt",
+    "val": "0.95045 1 1.08905"
+  },
+  "RedTRC": {
+    "id": "rTRC",
+    "val": "(Binary data 14 bytes)"
+  },
+  "GreenTRC": {
+    "id": "gTRC",
+    "val": "(Binary data 14 bytes)"
+  },
+  "BlueTRC": {
+    "id": "bTRC",
+    "val": "(Binary data 14 bytes)"
+  },
+  "RedMatrixColumn": {
+    "id": "rXYZ",
+    "val": "0.43607 0.22249 0.01392"
+  },
+  "GreenMatrixColumn": {
+    "id": "gXYZ",
+    "val": "0.38515 0.71687 0.09708"
+  },
+  "BlueMatrixColumn": {
+    "id": "bXYZ",
+    "val": "0.14307 0.06061 0.7141"
+  },
+  "VideoCardGamma": {
+    "id": "vcgt",
+    "val": "(Binary data 48 bytes)"
+  },
+  "ChromaticAdaptation": {
+    "id": "chad",
+    "val": "1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168"
+  },
+  "ProfileDescriptionML": {
+    "id": "dscm",
+    "val": "sRGB Profile"
+  },
+  "ProfileDescriptionML-es-ES": {
+    "id": "dscm-es-ES",
+    "val": "Perfil sRGB"
+  },
+  "ProfileDescriptionML-da-DK": {
+    "id": "dscm-da-DK",
+    "val": "sRGB-beskrivelse"
+  },
+  "ProfileDescriptionML-de-DE": {
+    "id": "dscm-de-DE",
+    "val": "sRGB-Profil"
+  },
+  "ProfileDescriptionML-fi-FI": {
+    "id": "dscm-fi-FI",
+    "val": "sRGB-profiili"
+  },
+  "ProfileDescriptionML-fr-FU": {
+    "id": "dscm-fr-FU",
+    "val": "Profil sRVB"
+  },
+  "ProfileDescriptionML-it-IT": {
+    "id": "dscm-it-IT",
+    "val": "Profilo sRGB"
+  },
+  "ProfileDescriptionML-nl-NL": {
+    "id": "dscm-nl-NL",
+    "val": "sRGB-profiel"
+  },
+  "ProfileDescriptionML-no-NO": {
+    "id": "dscm-no-NO",
+    "val": "sRGB-profil"
+  },
+  "ProfileDescriptionML-pt-BR": {
+    "id": "dscm-pt-BR",
+    "val": "Perfil sRGB"
+  },
+  "ProfileDescriptionML-sv-SE": {
+    "id": "dscm-sv-SE",
+    "val": "sRGB-profil"
+  },
+  "ProfileDescriptionML-ja-JP": {
+    "id": "dscm-ja-JP",
+    "val": "sRGB プロファイル"
+  },
+  "ProfileDescriptionML-ko-KR": {
+    "id": "dscm-ko-KR",
+    "val": "sRGB 프로파일"
+  },
+  "ProfileDescriptionML-zh-TW": {
+    "id": "dscm-zh-TW",
+    "val": "sRGB 色彩描述"
+  },
+  "ProfileDescriptionML-zh-CN": {
+    "id": "dscm-zh-CN",
+    "val": "sRGB 描述文件"
+  },
+  "CurrentIPTCDigest": {
+    "id": "CurrentIPTCDigest",
+    "val": "6e6b57828113ee8f59c99df8b1eebb91"
+  },
+  "CodedCharacterSet": {
+    "id": "0x005a",
+    "val": "UTF8"
+  },
+  "ApplicationRecordVersion": {
+    "id": "0x0000",
+    "val": 2
+  },
+  "By-line": {
+    "id": "0x0050",
+    "val": "Jeff Kubina"
+  },
+  "Headline": {
+    "id": "0x0069",
+    "val": "Lincoln Memorial"
+  },
+  "Sub-location": {
+    "id": "0x005c",
+    "val": "Lincoln Memorial"
+  },
+  "Source": {
+    "id": "0x0073",
+    "val": "http://www.flickr.com/photos/95118988@N00/1372774027/"
+  },
+  "Caption-Abstract": {
+    "id": "0x0078",
+    "val": "The Lincoln Memorial is an American national monument built to honor the 16th President of the United States, Abraham Lincoln. It is located on the National Mall in Washington, D.C. across from the Washington Monument. The architect was Henry Bacon, the sculptor of the primary statue – Abraham Lincoln, 1920 – was Daniel Chester French, and the painter of the interior murals was Jules Guerin. Dedicated in 1922, it is one of several monuments built to honor an American president."
+  },
+  "Credit": {
+    "id": "0x006e",
+    "val": "Flickr"
+  },
+  "DateCreated": {
+    "id": "0x0037",
+    "val": "2013:10:07"
+  },
+  "CopyrightNotice": {
+    "id": "0x0074",
+    "val": "CC-by-sa"
+  },
+  "Keywords": {
+    "id": "0x0019",
+    "val": ["lincoln","lincoln memorial","washington dc"]
+  },
+  "TimeCreated": {
+    "id": "0x003c",
+    "val": "09:14:08+02:00"
+  },
+  "Province-State": {
+    "id": "0x005f",
+    "val": "District of Columbia"
+  },
+  "ObjectName": {
+    "id": "0x0005",
+    "val": "Lincoln Memorial"
+  },
+  "City": {
+    "id": "0x005a",
+    "val": "Washington DC"
+  },
+  "Country-PrimaryLocationName": {
+    "id": "0x0065",
+    "val": "USA"
+  },
+  "ImageWidth": {
+    "id": "ImageWidth",
+    "val": 800
+  },
+  "ImageHeight": {
+    "id": "ImageHeight",
+    "val": 532
+  },
+  "EncodingProcess": {
+    "id": "EncodingProcess",
+    "val": "Baseline DCT, Huffman coding"
+  },
+  "BitsPerSample": {
+    "id": "BitsPerSample",
+    "val": 8
+  },
+  "ColorComponents": {
+    "id": "ColorComponents",
+    "val": 3
+  },
+  "YCbCrSubSampling": {
+    "id": "YCbCrSubSampling",
+    "val": "YCbCr4:2:0 (2 2)"
+  },
+  "DateTimeCreated": {
+    "id": "DateTimeCreated",
+    "val": "2013:10:07 09:14:08+02:00"
+  },
+  "DateTimeOriginal": {
+    "id": "DateTimeOriginal",
+    "val": "2013:10:07 09:14:08+02:00"
+  },
+  "ImageSize": {
+    "id": "ImageSize",
+    "val": "800x532"
+  }
+}]
