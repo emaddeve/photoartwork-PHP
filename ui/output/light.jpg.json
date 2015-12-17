@@ -1,0 +1,43 @@
+[{
+  "SourceFile": "../ui/uploads/light.jpg",
+  "File": {
+    "FileName": "light.jpg"
+  },
+  "EXIF": {
+    "Orientation": "Horizontal (normal)",
+    "XResolution": 300,
+    "YResolution": 300,
+    "ResolutionUnit": "inches",
+    "Software": "Adobe Photoshop CS3 Windows",
+    "ModifyDate": "2011:02:28 22:49:14",
+    "ColorSpace": "sRGB",
+    "ExifImageWidth": 1185,
+    "ExifImageHeight": 701,
+    "Compression": "JPEG (old-style)",
+    "ThumbnailOffset": 6550,
+    "ThumbnailLength": 4575
+  },
+  "XMP": {
+    "XMPToolkit": "Adobe XMP Core 4.1-c036 46.276720, Mon Feb 19 2007 22:40:08        ",
+    "Format": "image/jpeg",
+    "CreatorTool": "Adobe Photoshop CS3 Windows",
+    "CreateDate": "2011:02:28 22:49:14-05:00",
+    "ModifyDate": "2011:02:28 22:49:14-05:00",
+    "MetadataDate": "2011:02:28 22:49:14-05:00",
+    "DocumentID": "uuid:70ACF8C2B643E0119A06A16BB2B875CE",
+    "InstanceID": "uuid:71ACF8C2B643E0119A06A16BB2B875CE",
+    "ColorMode": "RGB",
+    "ICCProfileName": "sRGB IEC61966-2.1",
+    "History": "",
+    "Orientation": "Horizontal (normal)",
+    "XResolution": 300,
+    "YResolution": 300,
+    "ResolutionUnit": "inches",
+    "NativeDigest": "256,257,258,259,262,274,277,284,530,531,282,283,296,301,318,319,529,532,306,270,271,272,305,315,33432;B86657F538C13A9D9653D5574436B151",
+    "ExifImageWidth": 1185,
+    "ExifImageHeight": 701,
+    "ColorSpace": "sRGB",
+    "DerivedFromInstanceID": "uuid:6FACF8C2B643E0119A06A16BB2B875CE",
+    "DerivedFromDocumentID": "uuid:6FACF8C2B643E0119A06A16BB2B875CE"
+  }
+}]

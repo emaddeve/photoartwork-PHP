@@ -39,7 +39,13 @@
     <input  type="submit" value="Upload Image" name="submit" class="myButton">
 </form>
 <?php
+
+
+
 $target_dir = "../ui/uploads/";
+
+
+
 $target_file = $target_dir . basename($_FILES["fileToUpload"]["name"]);
 $uploadOk = 1;
 $imageFileType = pathinfo($target_file,PATHINFO_EXTENSION);
@@ -88,12 +94,12 @@ if ($uploadOk == 0) {
        
        
       
-       header('Location: uploadedImg.php?imgid=../ui/uploads/'.$imgName);
+       header('Location: uploadedImg.php?imgid='.$imgName);
 
 	exit;
 
     } else {
-       // alert "Sorry, there was an error uploading your file.";
+       // echo "Sorry, there was an error uploading your file.";
     }
 }
 

@@ -13,7 +13,7 @@
     shell_exec("exiftool -Title='$Title' -Description='$Description'  -Country='$Country'
      -City='$City'  ../uploads/$name");
 
-shell_exec ("exiftool -g -FileName -XMP:all -IPTC:all -EXIF:all -json  ../ui/uploads/$name >../ui/output/$name.json");
+shell_exec ("exiftool -g -FileName -XMP:all -IPTC:all -EXIF:all -json  ../uploads/$name >../ui/output/$name.json");
 
     header('Location: details.php?imgid='.$name);
 

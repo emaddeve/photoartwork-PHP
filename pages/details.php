@@ -5,21 +5,25 @@
     <meta name="keywords" content="website keywords, website keywords" />
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <!-- stylesheets -->
-    <link href="../css/style.css" rel="stylesheet" type="text/css" />
-    <link href="../css/colour.css" rel="stylesheet" type="text/css" />
+    <link href="../ui/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="../ui/css/colour.css" rel="stylesheet" type="text/css" />
+
+
     <!-- modernizr enables HTML5 elements and feature detects -->
-    <script type="text/javascript" src="../js/modernizr-1.5.min.js"></script>
+    <script type="text/javascript" src="../ui/js/modernizr-1.5.min.js"></script>
     <script class="jsbin" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
     <meta charset=utf-8 />
     <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-    <style type="text/css">
-        #itemContent1,#itemContent2,#itemContent3 {
-            display: none;
-        }
-	
-    </style>
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+
+
 </head>
 <body>
+<div id="main">
 
 <!-- begin header -->
 <header>
@@ -39,27 +43,50 @@
         </ul>
     </nav>
 </header>
-<button type="button" onclick="GetCellValues()">show</button>
-<p id='php'>tesetset</p>
+    Search for <b>cats, dogs, cakes</b>, or anything else that takes your fancy :-)
+    <br />
+    <input id="searchterm" />
+    <button id="search">search</button>
+    <select id="searchterm">
+        <option value="volvo">Volvo</option>
+        <option value="saab">Saab</option>
+        <option value="opel">Opel</option>
+        <option value="audi">Audi</option>
+    </select>
+
+<section class="tabs">
+    <input id="tab-1" type="radio" name="radio-set" class="tab-selector-1" checked="checked" />
+    <label for="tab-1" class="tab-label-1">EXIF</label>
+
+    <input id="tab-2" type="radio" name="radio-set" class="tab-selector-2" />
+    <label for="tab-2" class="tab-label-2">XMP</label>
+
+    <input id="tab-3" type="radio" name="radio-set" class="tab-selector-3" />
+    <label for="tab-3" class="tab-label-3">IPTC</label>
+
+
+
+
 
 <?php
 
 
 $imgid = $_GET['imgid'];
-echo  "<img src='../images/$imgid' hight='300' width='300' align=\"center\" >";
-echo "<a href='../images/' download='$imgid'> <button type='button'>Download Photo</button> </a>";
-echo $imgid;
-echo "<a href='../xmp/' download=$imgid'.xmp'><button type='button'>Download XMP format</button></a>";
-echo "<a href='edit.php?imgid=$imgid'><button type='button'>Edit</button>";
-$json=file_get_contents("../output/$imgid.json");
+echo  "<img id='img' src='$imgid'></br>";
+
+echo "<a title=\"download the image.\"style='float: right;' href='../ui/images/' class='glyphicon glyphicon-download-alt' download='$imgid' > </a>";
+echo "<a title=\"download XMP file.\" style='float: right;' href='../ui/xmp/' class='glyphicon glyphicon-file'  download=$imgid'.xmp'> </a>";
+
+$json=file_get_contents("../ui/output/$imgid.json");
 $data =  json_decode($json);
 //$result = $data[0].EXIF.Orientation;
 ?>
 
-<a href="#"  id="expandButton1">EXIF</a>
-<div id="itemContent1" class="opened">
-<div class="wrap">
-<div id='slidingDiv' >
+    <div class="clear-shadow"></div>
+<div class="content">
+    <div class="content-1">
+
+
 
     <?php
 
@@ -73,12 +100,7 @@ $data =  json_decode($json);
         foreach($row->EXIF as $key => $val)
         {
 
-            echo "<table id='mytable'>
-                 <tr>
-                      <td ><div contenteditable>$key  :   </td>
-                      <td id='$key'><div contenteditable>$val</td>
-                </tr>
-              </table>";
+            echo "<b>$key</b>: $val</br>";
         }
     }
 
@@ -87,12 +109,11 @@ $data =  json_decode($json);
 
     ?>
 </div>
-</div>
-</div>
 
-<a href="#" id="expandButton2">XMP</a>
-<div id="itemContent2" class="opened">
-<div id='slidingDiv' >
+
+
+    <div class="content-2">
+
     <?php
 
     foreach($data as $row)
@@ -100,35 +121,26 @@ $data =  json_decode($json);
         foreach($row->XMP as $key => $val)
         {
 
-            echo "<table>
-                 <tr>
-                      <td>$key</td>
-                      <td id='$key'>$val</td>
-                </tr>
-              </table>";
+            echo "<b>$key</b>: $val</br>";
         }
     }
 
     ?>
 </div>
-</div>
 
-<a href="#" id="expandButton2">IPTC</a>
-<div id="itemContent2" class="opened">
+
+    <div class="content-3">
+
 
     <?php
 
     foreach($data as $row)
     {
         foreach($row->IPTC as $key => $val)
-        {
 
-            echo "<table>
-                 <tr>
-                      <td>$key</td>
-                      <td>$val</td>
-                </tr>
-              </table>";
+        {
+            echo "<b>$key</b>: $val</br>";
+
         }
     }
 
@@ -136,11 +148,18 @@ $data =  json_decode($json);
 
     ?>
 </div>
-
-
-
-<script src="SH.js"></script>
+</div>
+</section>
+</div>
+<div id="results">
+</div>
+<script src="../ui/js/SH.js"></script>
 <script src="gettd.js"></script>
+<script src="../ui/js/flickr.js"></script>
+
+
+
+
 
 </body>
 </html>
