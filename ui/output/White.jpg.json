@@ -1,0 +1,53 @@
+[{
+  "SourceFile": "../ui/v/White.jpg",
+  "File": {
+    "FileName": "White.jpg"
+  },
+  "EXIF": {
+    "Orientation": "Horizontal (normal)",
+    "XResolution": 72,
+    "YResolution": 72,
+    "ResolutionUnit": "inches",
+    "YCbCrPositioning": "Centered",
+    "ExifVersion": "0231",
+    "ComponentsConfiguration": "Y, Cb, Cr, -",
+    "FlashpixVersion": "0100",
+    "ColorSpace": "sRGB",
+    "ExifImageWidth": 800,
+    "ExifImageHeight": 537
+  },
+  "XMP": {
+    "XMPToolkit": "XMP Core 5.1.2",
+    "Title": "Moonshine over White Sands National Monument",
+    "Creator": "John Fowler",
+    "Subject": ["desert","dunes","new mexico","white sands"],
+    "Description": "Moonshine over White Sands National Monument, New Mexico. The area is in the mountain-ringed Tularosa Basin and comprises the southern part of a 710-km² field of white sand dunes composed of gypsum crystals.",
+    "Rights": "CC-by",
+    "Headline": "Moonshine over White Sands National Monument",
+    "Country": "USA",
+    "DateCreated": "2010:01:29 18:38:07+01:00",
+    "Source": "http://commons.wikimedia.org/wiki/File:White_sands_moon_%26_clouds.jpg",
+    "Credit": "Wikimedia Commons",
+    "State": "New Mexico",
+    "CreatorWorkURL": "http://www.lumenetic.com/",
+    "Location": "White Sands National Monument",
+    "UsageTerms": "http://creativecommons.org/licenses/by/2.0/deed.en"
+  },
+  "IPTC": {
+    "CodedCharacterSet": "UTF8",
+    "ApplicationRecordVersion": 2,
+    "By-line": "John Fowler",
+    "Headline": "Moonshine over White Sands National Monument",
+    "Country-PrimaryLocationName": "USA",
+    "Source": "http://commons.wikimedia.org/wiki/File:White_sands_moon_%26_clouds.jpg",
+    "Caption-Abstract": "Moonshine over White Sands National Monument, New Mexico. The area is in the mountain-ringed Tularosa Basin and comprises the southern part of a 710-km² field of white sand dunes composed of gypsum crystals.",
+    "Credit": "Wikimedia Commons",
+    "DateCreated": "2010:01:29",
+    "CopyrightNotice": "CC-by",
+    "Keywords": ["desert","dunes","new mexico","white sands"],
+    "Province-State": "New Mexico",
+    "TimeCreated": "18:38:07+01:00",
+    "ObjectName": "Moonshine over White Sands National Monument",
+    "Sub-location": "White Sands National Monument"
+  }
+}]

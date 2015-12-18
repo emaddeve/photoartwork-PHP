@@ -2,10 +2,23 @@
 <html>
 
 <head>
-  <title>PhotoArtWork2</title>
-  <meta name="description" content="website description" />
-  <meta name="keywords" content="website keywords, website keywords" />
-  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+  <?php include_once("pages/metadata.php");?>
+  <meta charset="UTF-8">
+  <title><?php echo $title; ?></title>
+  <meta name="description" content="<?php echo $meta_description; ?>"/>
+  <meta name="keywords" content="exiftool,metadata,image data"/>
+  <meta name="author" content="Emad Al Rifai">
+  <meta property="og:title" content="<?php echo $meta_title; ?>">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="<?php echo $meta_url; ?>">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@Emad_Refai">
+  <meta name="twitter:creator" content="@Emad_Refai">
+  <meta name="twitter:title" content="<?php echo $meta_title; ?>">
+  <meta name="twitter:description" content="<?php echo $meta_description; ?>">
+  <meta name="twitter:image" content="<?php echo $meta_image; ?>">
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
   <!-- stylesheets -->
   <link href="ui/css/style.css" rel="stylesheet" type="text/css" />
   <link href="ui/css/colour.css" rel="stylesheet" type="text/css" />
@@ -22,7 +35,7 @@
       <nav>
         <ul class="sf-menu" id="nav">
           <li class="selected"><a href="index.html">home</a></li>
-          <li><a href="pages/uploads.php">upload</a></li>
+          <li><a href="pages/uploads.html">upload</a></li>
           <li><a href="#">my portfolio</a>
             <ul>
               <li><a href="portfolio_one.html">portfolio_one</a></li>
@@ -39,18 +52,18 @@
     <!-- begin content -->
     <div id="site_content">
       <ul class="slideshow">
-        <li class="show"><a href='pages/details.php?imgid=../ui/images/Chicago.jpg'><img width="950" height="450" src="ui/images/Chicago.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Description ui/images/Chicago.jpg "); ?> &quot;" /></a></li>
-        <li><a href='pages/details.php?imgid=Cupertino.jpg'><img width="950" height="450" src="ui/images/Cupertino.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Description ui/images/Cupertino.jpg "); ?>&quot;" /></a></li>
-        <li><a href='pages/details.php?imgid=Dallas.jpg'><img width="950" height="450" src="ui/images/Dallas.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Description ui/images/Dallas.jpg "); ?>&quot;" /></a></li>
-<li><a href='pages/details.php?imgid=Detroit.jpg'><img width="950" height="450" src="ui/images/Detroit.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Description ui/images/Detroit.jpg "); ?>&quot;" /></a></li>
-<li><a href='pages/details.php?imgid=Grand.jpg'><img width="950" height="450" src="ui/images/Grand.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Description ui/images/Grand.jpg "); ?>&quot;" /></a></li>
-<li><a href='pages/details.php?imgid=Joshua.jpg'><img width="950" height="450" src="ui/images/Joshua.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Description ui/images/Joshua.jpg "); ?>&quot;" /></a></li>
-<li><a href='pages/details.php?imgid=Lincoln.jpg'><img width="950" height="450" src="ui/images/Lincoln.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Description ui/images/Lincoln.jpg "); ?>&quot;" /></a></li>
-<li><a href='pages/details.php?imgid=MIT.jpg'><img width="950" height="450" src="ui/images/MIT.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Description ui/images/MIT.jpg "); ?>&quot;" /></a></li>
-<li><a href='pages/details.php?imgid=Montreal.jpg'><img width="950" height="450" src="ui/images/Montreal.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Description ui/images/Montreal.jpg "); ?>&quot;" /></a></li>
-<li><a href='pages/details.php?imgid=Mountain.jpg'><img width="950" height="450" src="ui/images/Mountain.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Description ui/images/Mountain.jpg "); ?>&quot;" /></a></li>
-<li><a href='pages/details.php?imgid=White.jpg'><img width="950" height="450" src="ui/images/White.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Description ui/images/White.jpg "); ?>&quot;" /></a></li>
-<li><a href='pages/details.php?imgid=Yosemite.jpg'><img width="950" height="450" src="ui/images/Yosemite.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Description ui/images/Yosemite.jpg "); ?>&quot;" /></a></li>
+        <li class="show"><a href='pages/details.php?imgid=Chicago.jpg'><img width="950" height="450" src="ui/images/Chicago.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title ui/images/Chicago.jpg "); ?> &quot;" /></a></li>
+        <li><a href='pages/details.php?imgid=Cupertino.jpg'><img width="950" height="450" src="ui/images/Cupertino.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title  ui/images/Cupertino.jpg "); ?>&quot;" /></a></li>
+        <li><a href='pages/details.php?imgid=Dallas.jpg'><img width="950" height="450" src="ui/images/Dallas.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title  ui/images/Dallas.jpg "); ?>&quot;" /></a></li>
+<li><a href='pages/details.php?imgid=Detroit.jpg'><img width="950" height="450" src="ui/images/Detroit.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title  ui/images/Detroit.jpg "); ?>&quot;" /></a></li>
+<li><a href='pages/details.php?imgid=Grand.jpg'><img width="950" height="450" src="ui/images/Grand.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title ui/images/Grand.jpg "); ?>&quot;" /></a></li>
+<li><a href='pages/details.php?imgid=Joshua.jpg'><img width="950" height="450" src="ui/images/Joshua.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title ui/images/Joshua.jpg "); ?>&quot;" /></a></li>
+<li><a href='pages/details.php?imgid=Lincoln.jpg'><img width="950" height="450" src="ui/images/Lincoln.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title ui/images/Lincoln.jpg "); ?>&quot;" /></a></li>
+<li><a href='pages/details.php?imgid=MIT.jpg'><img width="950" height="450" src="ui/images/MIT.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title  ui/images/MIT.jpg "); ?>&quot;" /></a></li>
+<li><a href='pages/details.php?imgid=Montreal.jpg'><img width="950" height="450" src="ui/images/Montreal.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title  ui/images/Montreal.jpg "); ?>&quot;" /></a></li>
+<li><a href='pages/details.php?imgid=Mountain.jpg'><img width="950" height="450" src="ui/images/Mountain.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title  ui/images/Mountain.jpg "); ?>&quot;" /></a></li>
+<li><a href='pages/details.php?imgid=White.jpg'><img width="950" height="450" src="ui/images/White.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title ui/images/White.jpg "); ?>&quot;" /></a></li>
+<li><a href='pages/details.php?imgid=Yosemite.jpg'><img width="950" height="450" src="ui/images/Yosemite.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title ui/images/Yosemite.jpg "); ?>&quot;" /></a></li>
       </ul>
     </div>
     <!-- end content -->

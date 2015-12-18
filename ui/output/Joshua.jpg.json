@@ -1,0 +1,52 @@
+[{
+  "SourceFile": "../ui/v/Joshua.jpg",
+  "File": {
+    "FileName": "Joshua.jpg"
+  },
+  "EXIF": {
+    "Orientation": "Horizontal (normal)",
+    "XResolution": 72,
+    "YResolution": 72,
+    "ResolutionUnit": "inches",
+    "YCbCrPositioning": "Centered",
+    "ExifVersion": "0231",
+    "ComponentsConfiguration": "Y, Cb, Cr, -",
+    "FlashpixVersion": "0100",
+    "ColorSpace": "sRGB",
+    "ExifImageWidth": 800,
+    "ExifImageHeight": 439
+  },
+  "XMP": {
+    "XMPToolkit": "XMP Core 5.1.2",
+    "Title": "California High Desert Summer Sunset",
+    "Creator": "Jessie Eastland",
+    "Subject": ["california","desert","joshua tree"],
+    "Description": "Joshua Tree National Park is located in southeastern California. Declared a U.S. National Park in 1994 when the U.S. Congress passed the California Desert Protection Act . It is named for the Joshua tree (Yucca brevifolia) forests native to the park.  \n\nThe park includes parts of two deserts, each an ecosystem whose characteristics are determined primarily by elevation: the higher Mojave Desert and lower Colorado Desert. The Little San Bernardino Mountains run through the southwest edge of the park.",
+    "Rights": "CC-by-sa",
+    "Headline": "California High Desert Summer Sunset",
+    "Country": "USA",
+    "DateCreated": "2013:10:07 21:58:17+02:00",
+    "Source": "http://commons.wikimedia.org/wiki/File:Blue-Joshua_2_-_July-2011.jpg",
+    "Credit": "Wikimedia Commons",
+    "State": "California",
+    "UsageTerms": "http://creativecommons.org/licenses/by-sa/3.0/deed.en",
+    "Location": "Joshua Tree National Park"
+  },
+  "IPTC": {
+    "CodedCharacterSet": "UTF8",
+    "ApplicationRecordVersion": 2,
+    "Sub-location": "Joshua Tree National Park",
+    "By-line": "Jessie Eastland",
+    "Headline": "California High Desert Summer Sunset",
+    "Source": "http://commons.wikimedia.org/wiki/File:Blue-Joshua_2_-_July-2011.jpg",
+    "Caption-Abstract": "Joshua Tree National Park is located in southeastern California. Declared a U.S. National Park in 1994 when the U.S. Congress passed the California Desert Protection Act . It is named for the Joshua tree (Yucca brevifolia) forests native to the park.  \n\nThe park includes parts of two deserts, each an ecosystem whose characteristics are determined primarily by elevation: the higher Mojave Desert and lower Colorado Desert. The Little San Bernardino Mountains run through the southwest edge of the park.",
+    "Credit": "Wikimedia Commons",
+    "DateCreated": "2013:10:07",
+    "CopyrightNotice": "CC-by-sa",
+    "Keywords": ["california","desert","joshua tree"],
+    "TimeCreated": "21:58:17+02:00",
+    "Province-State": "California",
+    "ObjectName": "California High Desert Summer Sunset",
+    "Country-PrimaryLocationName": "USA"
+  }
+}]

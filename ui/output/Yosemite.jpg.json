@@ -1,0 +1,53 @@
+[{
+  "SourceFile": "../ui/v/Yosemite.jpg",
+  "File": {
+    "FileName": "Yosemite.jpg"
+  },
+  "EXIF": {
+    "Orientation": "Horizontal (normal)",
+    "XResolution": 72,
+    "YResolution": 72,
+    "ResolutionUnit": "inches",
+    "YCbCrPositioning": "Centered",
+    "ExifVersion": "0231",
+    "ComponentsConfiguration": "Y, Cb, Cr, -",
+    "FlashpixVersion": "0100",
+    "ColorSpace": "sRGB",
+    "ExifImageWidth": 800,
+    "ExifImageHeight": 522
+  },
+  "XMP": {
+    "XMPToolkit": "XMP Core 5.1.2",
+    "Title": "Tunnel View, Yosemite Valley, Yosemite NP",
+    "Creator": "David Iliff ",
+    "Subject": ["california","yosemite"],
+    "Description": "The view of Yosemite Valley from Tunnel View in Yosemite National Park, California, United States.",
+    "Rights": "CC-by-sa",
+    "Headline": "Tunnel View, Yosemite Valley, Yosemite NP",
+    "Country": "USA",
+    "DateCreated": "2013:05:16 18:37:30+02:00",
+    "Source": "http://commons.wikimedia.org/wiki/File:Tunnel_View,_Yosemite_Valley,_Yosemite_NP_-_Diliff.jpg",
+    "Credit": "Wikimedia Commons",
+    "State": "California",
+    "CreatorWorkURL": "http://commons.wikimedia.org/wiki/User:Diliff",
+    "Location": "Yosemite National Park",
+    "UsageTerms": "http://creativecommons.org/licenses/by-sa/3.0/deed.en"
+  },
+  "IPTC": {
+    "CodedCharacterSet": "UTF8",
+    "ApplicationRecordVersion": 2,
+    "By-line": "David Iliff ",
+    "Headline": "Tunnel View, Yosemite Valley, Yosemite NP",
+    "Sub-location": "Yosemite National Park",
+    "Source": "http://commons.wikimedia.org/wiki/File:Tunnel_View,_Yosemite_Valley,_Yosemite_NP_-_Diliff.jpg",
+    "Caption-Abstract": "The view of Yosemite Valley from Tunnel View in Yosemite National Park, California, United States.",
+    "Credit": "Wikimedia Commons",
+    "DateCreated": "2013:05:16",
+    "CopyrightNotice": "CC-by-sa",
+    "Keywords": ["california","yosemite"],
+    "Province-State": "California",
+    "TimeCreated": "18:37:30+02:00",
+    "ObjectName": "Tunnel View, Yosemite Valley, Yosemite NP",
+    "Country-PrimaryLocationName": "USA"
+  }
+}]
