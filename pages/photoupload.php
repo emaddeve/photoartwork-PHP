@@ -42,8 +42,8 @@ if ($uploadOk == 0) {
 
         $target_file = "../ui/images/" . $imgName;
 
-        shell_exec("exiftool -g -FileName -XMP:all -IPTC:all -EXIF:all -json  $target_file >../ui/output/$imgName.json");
-        shell_exec("exiftool -xmp -b $target_file >../ui/xmp/$imgName.xmp");
+        //exec("exiftool -g -FileName -XMP:all -IPTC:all -EXIF:all -json".$target_file,$response);
+        exec("exiftool -xmp -b ".$target_file." >../ui/xmp/".$imgName.".xmp");
 
 
         header('Location: uploadedImg.php?imgid='.$imgName);

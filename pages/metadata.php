@@ -16,7 +16,7 @@ switch ($pageName) {
         $meta_url = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
         break;
 
-    case "detail.php":
+    case "details.php":
         $title = "Details";
         $meta_title = "image details";
         $meta_description = "details about the image by exiftool";

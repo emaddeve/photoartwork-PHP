@@ -17,7 +17,7 @@
   <meta name="twitter:creator" content="@Emad_Refai">
   <meta name="twitter:title" content="<?php echo $meta_title; ?>">
   <meta name="twitter:description" content="<?php echo $meta_description; ?>">
-  <meta name="twitter:image" content="<?php echo $meta_image; ?>">
+
   <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
   <!-- stylesheets -->
   <link href="ui/css/style.css" rel="stylesheet" type="text/css" />
@@ -27,65 +27,60 @@
 </head>
 
 <body>
-  <div id="main">
+<div id="main">
 
-    <!-- begin header -->
-    <header>
-      <div id="logo"><h1>By<a href="#">Al Rifai</a>Emad</h1></div>
-      <nav>
-        <ul class="sf-menu" id="nav">
-          <li class="selected"><a href="index.html">home</a></li>
-          <li><a href="pages/uploads.html">upload</a></li>
-          <li><a href="#">my portfolio</a>
-            <ul>
-              <li><a href="portfolio_one.html">portfolio_one</a></li>
-              <li><a href="portfolio_two.html">portfolio_two</a></li>
-            </ul>
-          </li>
-          <li><a href="pages/about.html">About</a></li>
-          <li><a href="pages/contact.html">contact</a></li>
-        </ul>
-      </nav>
-    </header>
-    <!-- end header -->
+  <!-- begin header -->
+  <header>
+    <div id="logo"><h1>By<a href="#">Al Rifai</a>Emad</h1></div>
+    <nav>
+      <ul class="sf-menu" id="nav">
+        <li class="selected"><a href="index.html">home</a></li>
+        <li><a href="pages/uploads.html">upload</a></li>
 
-    <!-- begin content -->
-    <div id="site_content">
-      <ul class="slideshow">
-        <li class="show"><a href='pages/details.php?imgid=Chicago.jpg'><img width="950" height="450" src="ui/images/Chicago.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title ui/images/Chicago.jpg "); ?> &quot;" /></a></li>
-        <li><a href='pages/details.php?imgid=Cupertino.jpg'><img width="950" height="450" src="ui/images/Cupertino.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title  ui/images/Cupertino.jpg "); ?>&quot;" /></a></li>
-        <li><a href='pages/details.php?imgid=Dallas.jpg'><img width="950" height="450" src="ui/images/Dallas.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title  ui/images/Dallas.jpg "); ?>&quot;" /></a></li>
-<li><a href='pages/details.php?imgid=Detroit.jpg'><img width="950" height="450" src="ui/images/Detroit.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title  ui/images/Detroit.jpg "); ?>&quot;" /></a></li>
-<li><a href='pages/details.php?imgid=Grand.jpg'><img width="950" height="450" src="ui/images/Grand.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title ui/images/Grand.jpg "); ?>&quot;" /></a></li>
-<li><a href='pages/details.php?imgid=Joshua.jpg'><img width="950" height="450" src="ui/images/Joshua.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title ui/images/Joshua.jpg "); ?>&quot;" /></a></li>
-<li><a href='pages/details.php?imgid=Lincoln.jpg'><img width="950" height="450" src="ui/images/Lincoln.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title ui/images/Lincoln.jpg "); ?>&quot;" /></a></li>
-<li><a href='pages/details.php?imgid=MIT.jpg'><img width="950" height="450" src="ui/images/MIT.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title  ui/images/MIT.jpg "); ?>&quot;" /></a></li>
-<li><a href='pages/details.php?imgid=Montreal.jpg'><img width="950" height="450" src="ui/images/Montreal.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title  ui/images/Montreal.jpg "); ?>&quot;" /></a></li>
-<li><a href='pages/details.php?imgid=Mountain.jpg'><img width="950" height="450" src="ui/images/Mountain.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title  ui/images/Mountain.jpg "); ?>&quot;" /></a></li>
-<li><a href='pages/details.php?imgid=White.jpg'><img width="950" height="450" src="ui/images/White.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title ui/images/White.jpg "); ?>&quot;" /></a></li>
-<li><a href='pages/details.php?imgid=Yosemite.jpg'><img width="950" height="450" src="ui/images/Yosemite.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title ui/images/Yosemite.jpg "); ?>&quot;" /></a></li>
+        <li><a href="pages/about.html">About</a></li>
+
       </ul>
-    </div>
-    <!-- end content -->
+    </nav>
+  </header>
+  <!-- end header -->
 
-    <!-- begin footer -->
-    <footer>
-      <p>Copyright &copy; 2012 PhotoArtWork2. All Rights Reserved. <a href="http://www.css3templates.co.uk">Design from css3templates.co.uk</a>.</p>
-      <p><img src="ui/images/twitter.png" alt="twitter" />&nbsp;<img src="ui/images/facebook.png" alt="facebook" />&nbsp;<img src="ui/images/rss.png" alt="rss" /></p>
-    </footer>
-    <!-- end footer -->
+  <!-- begin content -->
+  <div id="site_content">
+    <ul class="slideshow">
+      <li class="show"><a href='pages/details.php?imgid=Chicago.jpg'><img width="950" height="450" src="ui/images/Chicago.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title ui/images/Chicago.jpg "); ?> &quot;" /></a></li>
+      <li><a href='pages/details.php?imgid=Cupertino.jpg'><img width="950" height="450" src="ui/images/Cupertino.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title  ui/images/Cupertino.jpg "); ?>&quot;" /></a></li>
+      <li><a href='pages/details.php?imgid=Dallas.jpg'><img width="950" height="450" src="ui/images/Dallas.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title  ui/images/Dallas.jpg "); ?>&quot;" /></a></li>
+      <li><a href='pages/details.php?imgid=Detroit.jpg'><img width="950" height="450" src="ui/images/Detroit.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title  ui/images/Detroit.jpg "); ?>&quot;" /></a></li>
+      <li><a href='pages/details.php?imgid=Grand.jpg'><img width="950" height="450" src="ui/images/Grand.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title ui/images/Grand.jpg "); ?>&quot;" /></a></li>
+      <li><a href='pages/details.php?imgid=Joshua.jpg'><img width="950" height="450" src="ui/images/Joshua.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title ui/images/Joshua.jpg "); ?>&quot;" /></a></li>
+      <li><a href='pages/details.php?imgid=Lincoln.jpg'><img width="950" height="450" src="ui/images/Lincoln.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title ui/images/Lincoln.jpg "); ?>&quot;" /></a></li>
+      <li><a href='pages/details.php?imgid=MIT.jpg'><img width="950" height="450" src="ui/images/MIT.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title  ui/images/MIT.jpg "); ?>&quot;" /></a></li>
 
+      <li><a href='pages/details.php?imgid=Mountain.jpg'><img width="950" height="450" src="ui/images/Mountain.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title  ui/images/Mountain.jpg "); ?>&quot;" /></a></li>
+      <li><a href='pages/details.php?imgid=White.jpg'><img width="950" height="450" src="ui/images/White.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title ui/images/White.jpg "); ?>&quot;" /></a></li>
+      <li><a href='pages/details.php?imgid=Yosemite.jpg'><img width="950" height="450" src="ui/images/Yosemite.jpg" alt="&quot;<?php echo shell_exec ("exiftool -Creator -Title ui/images/Yosemite.jpg "); ?>&quot;" /></a></li>
+    </ul>
   </div>
-  <!-- javascript at the bottom for fast page loading -->
-  <script type="text/javascript" src="ui/js/jquery.min.js"></script>
-  <script type="text/javascript" src="ui/js/jquery.easing-sooper.js"></script>
-  <script type="text/javascript" src="ui/js/jquery.sooperfish.js"></script>
-  <script type="text/javascript" src="ui/js/image_fade.js"></script>
-  <!-- initialise sooperfish menu -->
-  <script type="text/javascript">
-    $(document).ready(function() {
-      $('ul.sf-menu').sooperfish();
-    });
-  </script>
+  <!-- end content -->
+
+  <!-- begin footer -->
+  <footer>
+    <p> PhotoArtWork. UMDN3C .</p>
+
+  </footer>
+  <!-- end footer -->
+
+</div>
+<!-- javascript at the bottom for fast page loading -->
+<script type="text/javascript" src="ui/js/jquery.min.js"></script>
+<script type="text/javascript" src="ui/js/jquery.easing-sooper.js"></script>
+<script type="text/javascript" src="ui/js/jquery.sooperfish.js"></script>
+<script type="text/javascript" src="ui/js/image_fade.js"></script>
+<!-- initialise sooperfish menu -->
+<script type="text/javascript">
+  $(document).ready(function() {
+    $('ul.sf-menu').sooperfish();
+  });
+</script>
 </body>
 </html>

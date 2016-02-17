@@ -7,53 +7,62 @@
 </head>
 
 <body>
-  <div id="main">
+<div id="main">
 
 
 
     <!-- begin content -->
     <div id="site_content">
-      <div id="left_content">
-        <div id="logo"> <h1>About This Application</h1></div>
-        <p>photoartwork is a web application created by Emad Al Rifai as a  <a href="UNICAEN www.info.unicaen.fr/diplome/M2DNR2I">M2-DNR2I</a>at UNICAEN
-          with a gool of making a simple image gallery without database.</p></br>
-        <h4 style="color: red"> Application Map</h4>
-          <p><strong>HOME PAGE</strong>: present some photo with slideshow way with some details about each photo.</p>
-         <p> <strong>DETAILS PAGE</strong>: present the image who has been selected with it's (EXIF,XMP,IPTC) METADATA
-          with the abailty to download the image itselfe and it's XMP sidecar
-          alongside the option to search the image on Flickr.</p>
-         <p> <strong>UPLOAD PAGE</strong>:this page allow the user to upload his own image<p>
-          <p><strong>UPLOADEDIMAGE PAGE</strong>: this page allow the user to modify the metadata of the  image which he uploaded.  </p>
-          <h4 style="color: red"> Technology Description</h4>
-          <p>this project was developed using PHP for appling exiftool commands on the images
-          and javascript for some functionality</p>
-          <h4 style="color: red"> Technology By Page</h4>
-
-          <p><strong>HOME PAGE</strong>: the home page load some images from images folder and execut an exiftool command to get the Creator and Title and show on the corresponding image
-          whith a link for each image point to the details page for this image</p>
-          <p><strong>details page</strong>:  it contain the  metadata of the image which was extracted by PHP command (exec_shell) with exiftool
-          the metadata are divided to 3 category EXIF,XMP,IPTC
-          and each category have a show up button by click on it we can see the corresponding data
-          in addintional to the download buttons one for the image itselfe and other for the XMP sidecar of the image which was made by the propirety (DOWNLOAD)of the element (a)
-          and a search option which search an image on Flickr by the chosen cryteria sugested by a dropdown list
-          these cryteria was taken from the XMP data of the image itselfe by the command XMP of exiftool</p>
+        <body>
+        <div id="main">
 
 
-      </div>
-      <div id="right_content">
-        <img style="float: left;" src="../ui/images/about.jpg" title="about me" alt="about me"/>
-      </div>
-    </div>
-    <!-- end content -->
 
-    <!-- begin footer -->
-    <footer>
-      <p>Copyright &copy; 2012 PhotoArtWork2. All Rights Reserved. <a href="http://www.css3templates.co.uk">Design from css3templates.co.uk</a>.</p>
-      <p><img src="images/twitter.png" alt="twitter" />&nbsp;<img src="images/facebook.png" alt="facebook" />&nbsp;<img src="images/rss.png" alt="rss" /></p>
-    </footer>
-    <!-- end footer -->
+            <!-- begin content -->
+            <div id="site_content">
+                <div id="left_content">
 
-  </div>
+                    <p>photoartwork is a web application created by Emad Al Rifai as a  <a href="UNICAEN www.info.unicaen.fr/diplome/M2DNR2I">M2-DNR2I</a>at UNICAEN
+                        with a gool of making a simple image gallery without database.</p></br>
+                    <h4 style="color: red"> Application Map</h4>
+                    <p><strong>HOME PAGE</strong>: present some photo with slideshow way with some details about each photo.</p>
+                    <p> <strong>DETAILS PAGE</strong>: present the image who has been selected with it's (EXIF,XMP,IPTC) METADATA
+                        with the ability to download the image itself and it's XMP sidecar
+                        alongside the option to search the image on Flickr.</p>
+                    <p> <strong>UPLOAD PAGE</strong>:this page allow the user to upload his own image<p>
+                    <p><strong>UPLOADEDIMAGE PAGE</strong>: this page allow the user to modify the metadata of the  image which he uploaded.  </p>
+                    <h4 style="color: red"> Technology Description</h4>
+                    <p>this project was developed using PHP for applying exiftool commands on the images
+                        and javascript for some functionality</p>
 
-</body>
+                    <h4 style="color: red"> Technology By Page</h4>
+
+                    <p><strong>HOME PAGE</strong>: the home page load some images from images folder and execut an exiftool command
+
+                        to get the Creator and Title and show on the corresponding image
+                        with a link for each image point to the details page for this image</p>
+                    <p><strong>DETAILS PAGE</strong>:  it contain the metadata of the image which was extracted by PHP command (exec shell)
+                        with exiftool the metadata are divided to 3 category EXIF,XMP,IPTC and each category have a show up button
+                        by click on it we can see the corresponding data in additional to the download buttons one for the image itself and other
+                        for the XMP sidecar of the image which was made by the propriety (DOWNLOAD)of the element (a) and a search option which
+
+                        search an image on Flickr by the chosen criteria suggested by a dropdown list these criteria was taken from the XMP data
+                        of the image itself by the command XMP of exiftool</p>
+                    <p><strong>UPLOAD PAGE</strong>:it consist of html form who permit of choose an image by browsing .
+                        and send the information to the photoupload.php to save the image in the image folder and send it's information
+                        again to uploadedImg.php where we can see the metadata in a formula permit of changing the data by sending it's information to edit.php
+
+
+                </div>
+                <div id="right_content">
+                    <img style="float: left;" src="../ui/images/about.jpg" title="about me" alt="about me"/>
+                </div>
+            </div>
+
+
+
+        </div>
+
+        </body>
 </html>
+

@@ -2,115 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a6424eb-eb2c-4587-8b56-b4de5de1e056" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/uploads.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/uploads.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/images/Montreal.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/output/damn-true.jpg.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/output/earth.jpg.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/output/light.jpg.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/uploads/damn-true.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/fonts/JennaSue-webfont.eot" afterPath="$PROJECT_DIR$/ui/fonts/JennaSue-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/fonts/JennaSue-webfont.ttf" afterPath="$PROJECT_DIR$/ui/fonts/JennaSue-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/fonts/NewsCycle-Regular.eot" afterPath="$PROJECT_DIR$/ui/fonts/NewsCycle-Regular.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/fonts/NewsCycle-Regular.ttf" afterPath="$PROJECT_DIR$/ui/fonts/NewsCycle-Regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/about.jpg" afterPath="$PROJECT_DIR$/ui/images/about.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/arrows-black.png" afterPath="$PROJECT_DIR$/ui/images/arrows-black.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/calendar.png" afterPath="$PROJECT_DIR$/ui/images/calendar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/contact.jpg" afterPath="$PROJECT_DIR$/ui/images/contact.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/facebook.png" afterPath="$PROJECT_DIR$/ui/images/facebook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/home_1.jpg" afterPath="$PROJECT_DIR$/ui/images/home_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/home_2.jpg" afterPath="$PROJECT_DIR$/ui/images/home_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/home_3.jpg" afterPath="$PROJECT_DIR$/ui/images/home_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/image_transparent.png" afterPath="$PROJECT_DIR$/ui/images/image_transparent.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/light.png" afterPath="$PROJECT_DIR$/ui/images/light.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/light_blog.png" afterPath="$PROJECT_DIR$/ui/images/light_blog.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/light_bullet.png" afterPath="$PROJECT_DIR$/ui/images/light_bullet.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/loader.gif" afterPath="$PROJECT_DIR$/ui/images/loader.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/next_arrow.gif" afterPath="$PROJECT_DIR$/ui/images/next_arrow.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_one/1.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_one/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_one/10.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_one/10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_one/10_thumb.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_one/10_thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_one/1_thumb.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_one/1_thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_one/2.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_one/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_one/2_thumb.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_one/2_thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_one/3.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_one/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_one/3_thumb.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_one/3_thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_one/4.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_one/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_one/4_thumb.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_one/4_thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_one/5.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_one/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_one/5_thumb.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_one/5_thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_one/6.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_one/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_one/6_thumb.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_one/6_thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_one/7.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_one/7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_one/7_thumb.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_one/7_thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_one/8.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_one/8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_one/8_thumb.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_one/8_thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_one/9.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_one/9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_one/9_thumb.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_one/9_thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_two/1.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_two/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_two/10.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_two/10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_two/10_thumb.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_two/10_thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_two/1_thumb.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_two/1_thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_two/2.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_two/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_two/2_thumb.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_two/2_thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_two/3.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_two/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_two/3_thumb.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_two/3_thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_two/4.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_two/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_two/4_thumb.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_two/4_thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_two/5.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_two/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_two/5_thumb.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_two/5_thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_two/6.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_two/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_two/6_thumb.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_two/6_thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_two/7.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_two/7.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_two/7_thumb.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_two/7_thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_two/8.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_two/8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_two/8_thumb.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_two/8_thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_two/9.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_two/9.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/portfolio_two/9_thumb.jpg" afterPath="$PROJECT_DIR$/ui/images/portfolio_two/9_thumb.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/prev_arrow.gif" afterPath="$PROJECT_DIR$/ui/images/prev_arrow.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/rss.png" afterPath="$PROJECT_DIR$/ui/images/rss.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/images/twitter.png" afterPath="$PROJECT_DIR$/ui/images/twitter.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/photoartwork2.iml" afterPath="$PROJECT_DIR$/.idea/photoartwork2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/documentation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/blog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/blog_2004.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/gettd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/portfolio_one.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/portfolio_two.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/v/damn-true.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/v/earth.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/v/iphone4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ui/v/light.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/documentation/index.html" afterPath="$PROJECT_DIR$/documentation/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/header.html" afterPath="$PROJECT_DIR$/include/header.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/about.html" afterPath="$PROJECT_DIR$/pages/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/blog.html" afterPath="$PROJECT_DIR$/pages/blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/blog_2004.html" afterPath="$PROJECT_DIR$/pages/blog_2004.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/contact.html" afterPath="$PROJECT_DIR$/pages/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/details.php" afterPath="$PROJECT_DIR$/pages/details.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/edit.php" afterPath="$PROJECT_DIR$/pages/edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/gettd.js" afterPath="$PROJECT_DIR$/pages/gettd.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/portfolio_one.html" afterPath="$PROJECT_DIR$/pages/portfolio_one.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/portfolio_two.html" afterPath="$PROJECT_DIR$/pages/portfolio_two.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/metadata.php" afterPath="$PROJECT_DIR$/pages/metadata.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/photoupload.php" afterPath="$PROJECT_DIR$/pages/photoupload.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/uploadedImg.php" afterPath="$PROJECT_DIR$/pages/uploadedImg.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/css/colour.css" afterPath="$PROJECT_DIR$/ui/css/colour.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/css/portfolio_one.css" afterPath="$PROJECT_DIR$/ui/css/portfolio_one.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/css/portfolio_two.css" afterPath="$PROJECT_DIR$/ui/css/portfolio_two.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/css/style.css" afterPath="$PROJECT_DIR$/ui/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/css/style4.css" afterPath="$PROJECT_DIR$/ui/css/style4.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/css/uploadedImg.css" afterPath="$PROJECT_DIR$/ui/css/uploadedImg.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/fonts/Jenna Sue Design Font License.txt" afterPath="$PROJECT_DIR$/ui/fonts/Jenna Sue Design Font License.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/fonts/News Cycle SIL OFL Font License 1.1.txt" afterPath="$PROJECT_DIR$/ui/fonts/News Cycle SIL OFL Font License 1.1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/js/SH.js" afterPath="$PROJECT_DIR$/ui/js/SH.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/js/flickr.js" afterPath="$PROJECT_DIR$/ui/js/flickr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/js/image_fade.js" afterPath="$PROJECT_DIR$/ui/js/image_fade.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/js/jquery.easing-sooper.js" afterPath="$PROJECT_DIR$/ui/js/jquery.easing-sooper.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/js/jquery.galleriffic.js" afterPath="$PROJECT_DIR$/ui/js/jquery.galleriffic.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/js/jquery.min.js" afterPath="$PROJECT_DIR$/ui/js/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/js/jquery.opacityrollover.js" afterPath="$PROJECT_DIR$/ui/js/jquery.opacityrollover.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/js/jquery.sooperfish.js" afterPath="$PROJECT_DIR$/ui/js/jquery.sooperfish.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/js/modernizr-1.5.min.js" afterPath="$PROJECT_DIR$/ui/js/modernizr-1.5.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/js/uploadedImg.js" afterPath="$PROJECT_DIR$/ui/js/uploadedImg.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ui/output/.json" afterPath="$PROJECT_DIR$/ui/output/.json" />
     </list>
     <ignored path="photoartwork2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -132,31 +45,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="uploadedImg.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/uploadedImg.php">
+      <file leaf-file-name="metadata.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/metadata.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.666667">
-              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-              <folding>
-                <marker date="1450431666352" expanded="true" signature="1289:1316" placeholder="..." />
-                <marker date="1450431666352" expanded="true" signature="1395:1423" placeholder="..." />
-                <marker date="1450431666352" expanded="true" signature="1557:1585" placeholder="..." />
-                <marker date="1450431666352" expanded="true" signature="1707:1735" placeholder="..." />
-                <marker date="1450431666352" expanded="true" signature="1886:1914" placeholder="..." />
-                <marker date="1450431666352" expanded="true" signature="2041:2069" placeholder="..." />
-                <marker date="1450431666352" expanded="true" signature="2280:2307" placeholder="..." />
-                <marker date="1450431666352" expanded="true" signature="2509:2533" placeholder="{...}" />
-              </folding>
+            <state vertical-scroll-proportion="0.5538462">
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="edit.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/edit.php">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="-18.333334">
+              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#body#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#1;n#div#0;n#div#0;n#div#0;n#body#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#2;n#div#0;n#div#0;n#div#0;n#body#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#body#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -164,11 +73,12 @@
       <file leaf-file-name="details.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/details.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.0">
-              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+            <state vertical-scroll-proportion="-20.333334">
+              <caret line="189" column="0" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
               <folding>
-                <marker date="1450391578566" expanded="true" signature="2129:2142" placeholder="..." />
-                <marker date="1450391578566" expanded="true" signature="2283:2296" placeholder="..." />
+                <element signature="n#style#0;n#optgroup#0;n#select#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1450474080543" expanded="true" signature="2984:2997" placeholder="..." />
+                <marker date="1450474080543" expanded="true" signature="3138:3151" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -177,18 +87,8 @@
       <file leaf-file-name="photoupload.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/photoupload.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.666667">
-              <caret line="48" column="50" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Chicago.jpg.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ui/output/Chicago.jpg.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            <state vertical-scroll-proportion="-18.333334">
+              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -228,17 +128,17 @@
         <option value="$PROJECT_DIR$/pages/uploads.php" />
         <option value="$PROJECT_DIR$/ui/css/uploadedImg.css" />
         <option value="$PROJECT_DIR$/pages/Controller.php" />
-        <option value="$PROJECT_DIR$/pages/uploads.html" />
         <option value="$PROJECT_DIR$/ui/output/Chicago.jpg.json" />
         <option value="$PROJECT_DIR$/ui/css/style.css" />
-        <option value="$PROJECT_DIR$/pages/details.php" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/pages/metadata.php" />
-        <option value="$PROJECT_DIR$/include/header.html" />
         <option value="$PROJECT_DIR$/pages/about.html" />
+        <option value="$PROJECT_DIR$/pages/details.php" />
+        <option value="$PROJECT_DIR$/pages/edit.php" />
         <option value="$PROJECT_DIR$/pages/photoupload.php" />
         <option value="$PROJECT_DIR$/pages/uploadedImg.php" />
-        <option value="$PROJECT_DIR$/pages/edit.php" />
+        <option value="$PROJECT_DIR$/pages/uploads.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/include/header.html" />
+        <option value="$PROJECT_DIR$/pages/metadata.php" />
       </list>
     </option>
   </component>
@@ -282,6 +182,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -297,38 +198,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="photoartwork2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="photoartwork2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="photoartwork2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="photoartwork2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="photoartwork2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -362,7 +231,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -427,7 +295,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1366" height="744" extended-state="1" />
+    <frame x="0" y="24" width="1366" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -478,14 +346,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding>
-            <marker date="1450431666352" expanded="true" signature="1289:1316" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1395:1423" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1557:1585" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1707:1735" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1886:1914" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="2041:2069" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="2280:2307" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="2509:2533" placeholder="{...}" />
+            <element signature="n#style#0;n#input#0;n#ul#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -511,9 +372,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#body#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#1;n#div#0;n#div#0;n#div#0;n#body#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#2;n#div#0;n#div#0;n#div#0;n#body#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#body#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -531,8 +393,9 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="142" column="13" selection-start-line="142" selection-start-column="13" selection-end-line="142" selection-end-column="13" />
           <folding>
-            <marker date="1450391578566" expanded="true" signature="2129:2142" placeholder="..." />
-            <marker date="1450391578566" expanded="true" signature="2283:2296" placeholder="..." />
+            <element signature="n#style#0;n#optgroup#0;n#select#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1450474080543" expanded="true" signature="2984:2997" placeholder="..." />
+            <marker date="1450474080543" expanded="true" signature="3138:3151" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -550,14 +413,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding>
-            <marker date="1450431666352" expanded="true" signature="1289:1316" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1395:1423" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1557:1585" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1707:1735" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1886:1914" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="2041:2069" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="2280:2307" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="2509:2533" placeholder="{...}" />
+            <element signature="n#style#0;n#input#0;n#ul#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -583,9 +439,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#body#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#1;n#div#0;n#div#0;n#div#0;n#body#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#2;n#div#0;n#div#0;n#div#0;n#body#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#body#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -611,16 +468,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1450391578566" expanded="true" signature="2129:2142" placeholder="..." />
-            <marker date="1450391578566" expanded="true" signature="2283:2296" placeholder="..." />
+            <element signature="n#style#0;n#optgroup#0;n#select#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1450474080543" expanded="true" signature="2984:2997" placeholder="..." />
+            <marker date="1450474080543" expanded="true" signature="3138:3151" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/gettd.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -629,14 +480,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1450431666352" expanded="true" signature="1289:1316" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1395:1423" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1557:1585" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1707:1735" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1886:1914" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="2041:2069" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="2280:2307" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="2509:2533" placeholder="{...}" />
+            <element signature="n#style#0;n#input#0;n#ul#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -654,16 +498,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1450391578566" expanded="true" signature="2129:2142" placeholder="..." />
-            <marker date="1450391578566" expanded="true" signature="2283:2296" placeholder="..." />
+            <element signature="n#style#0;n#optgroup#0;n#select#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1450474080543" expanded="true" signature="2984:2997" placeholder="..." />
+            <marker date="1450474080543" expanded="true" signature="3138:3151" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/gettd.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -679,14 +517,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1450431666352" expanded="true" signature="1289:1316" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1395:1423" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1557:1585" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1707:1735" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1886:1914" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="2041:2069" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="2280:2307" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="2509:2533" placeholder="{...}" />
+            <element signature="n#style#0;n#input#0;n#ul#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -704,16 +535,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
           <folding>
-            <marker date="1450391578566" expanded="true" signature="2129:2142" placeholder="..." />
-            <marker date="1450391578566" expanded="true" signature="2283:2296" placeholder="..." />
+            <element signature="n#style#0;n#optgroup#0;n#select#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1450474080543" expanded="true" signature="2984:2997" placeholder="..." />
+            <marker date="1450474080543" expanded="true" signature="3138:3151" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/gettd.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="1" selection-start-line="2" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -729,14 +554,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1450431666352" expanded="true" signature="1289:1316" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1395:1423" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1557:1585" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1707:1735" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1886:1914" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="2041:2069" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="2280:2307" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="2509:2533" placeholder="{...}" />
+            <element signature="n#style#0;n#input#0;n#ul#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -754,16 +572,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding>
-            <marker date="1450391578566" expanded="true" signature="2129:2142" placeholder="..." />
-            <marker date="1450391578566" expanded="true" signature="2283:2296" placeholder="..." />
+            <element signature="n#style#0;n#optgroup#0;n#select#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1450474080543" expanded="true" signature="2984:2997" placeholder="..." />
+            <marker date="1450474080543" expanded="true" signature="3138:3151" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/gettd.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="1" selection-start-line="2" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -779,14 +591,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1450431666352" expanded="true" signature="1289:1316" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1395:1423" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1557:1585" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1707:1735" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1886:1914" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="2041:2069" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="2280:2307" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="2509:2533" placeholder="{...}" />
+            <element signature="n#style#0;n#input#0;n#ul#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -796,27 +601,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="29" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="9" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/gettd.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.88091356">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -870,90 +654,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/include/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/metadata.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6615385">
-          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/uploads.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2769231">
-          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16923077">
-          <caret line="38" column="108" selection-start-line="38" selection-start-column="108" selection-end-line="38" selection-end-column="108" />
+        <state vertical-scroll-proportion="-18.333334">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#body#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#1;n#div#0;n#div#0;n#div#0;n#body#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#2;n#div#0;n#div#0;n#div#0;n#body#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#body#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/details.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.0">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        <state vertical-scroll-proportion="-20.333334">
+          <caret line="189" column="0" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
           <folding>
-            <marker date="1450391578566" expanded="true" signature="2129:2142" placeholder="..." />
-            <marker date="1450391578566" expanded="true" signature="2283:2296" placeholder="..." />
+            <element signature="n#style#0;n#optgroup#0;n#select#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1450474080543" expanded="true" signature="2984:2997" placeholder="..." />
+            <marker date="1450474080543" expanded="true" signature="3138:3151" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/photoupload.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.666667">
-          <caret line="48" column="50" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
+        <state vertical-scroll-proportion="-18.333334">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1846154">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.646154">
+          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/uploads.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4923077">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/uploadedImg.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.666667">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state vertical-scroll-proportion="2.9538462">
+          <caret line="96" column="7" selection-start-line="96" selection-start-column="7" selection-end-line="96" selection-end-column="7" />
           <folding>
-            <marker date="1450431666352" expanded="true" signature="1289:1316" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1395:1423" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1557:1585" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1707:1735" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="1886:1914" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="2041:2069" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="2280:2307" placeholder="..." />
-            <marker date="1450431666352" expanded="true" signature="2509:2533" placeholder="{...}" />
+            <element signature="n#style#0;n#input#0;n#ul#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/edit.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.43076923">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/metadata.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5538462">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
           <folding />
         </state>
       </provider>
